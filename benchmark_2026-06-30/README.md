@@ -1,4 +1,4 @@
-All RHF
+All BLYP using def2-universal-JFIT for cuEST density fit.
 
 `uname -a` output:
 
