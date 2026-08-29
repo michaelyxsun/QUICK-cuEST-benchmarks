@@ -1,0 +1,8 @@
+Molecule,Basis Set,cuEST 2e run 1,cuEST 2e run 2,cuEST 2e run 3,cuEST Exc run 1,cuEST Exc run 2,cuEST Exc run 3,cuEST total run 1,cuEST total run 2,cuEST total run 3,cuEST scf run 1,cuEST scf run 2,cuEST scf run 3,TOTAL ENERGY,Peak Device Memory,Total Device Memory
+morphine,3-21G,1.555992000,,,,,,4.711876000,,,1.750678000,,,-928.616803172,1.43 GB,
+morphine,6-31G,1.566270000,,,,,,4.863988000,,,1.771234000,,,-933.407304878,1.46 GB,
+morphine,6-31G*,3.820441000,,,,,,8.214010000,,,4.209360000,,,-933.794379932,2.86 GB,
+morphine,6-31G**,4.831082000,,,,,,9.579353000,,,5.318835000,,,-933.834020907,3.06 GB,
+morphine,6-31+G**,7.296057000,,,,,,13.421512000,,,7.969508000,,,-933.855805057,3.65 GB,
+morphine,def2-SV(P),3.823869000,,,,,,8.031290000,,,4.195238000,,,-933.120968368,2.87 GB,
+morphine,def2-SVP,4.492806000,,,,,,9.358456000,,,4.961092000,,,-933.176928049,3.09 GB,

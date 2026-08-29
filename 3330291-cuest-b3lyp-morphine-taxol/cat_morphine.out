@@ -1,0 +1,1560 @@
+
+======== FILE: ./morphine-2/morphine_def2-TZVP.out ========
+|  9   -939.980021126  0.303265E-05       0.143     9        0.06      0.09      0.01    0.3734E-03  0.3064E-05  0.4653E-03
+| 10   -939.980021613  0.486244E-06       0.151    10        0.06      0.09      0.01    0.8640E-04  0.1013E-05  0.5755E-04
+| 11   -939.980021652  0.397540E-07       0.162     1        0.07      0.09      0.01    0.3114E-04  0.3316E-06  0.2539E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.311405E-04   RMS CHANGE = 0.331626E-06   MAX CHANGE = 0.253930E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.287292133
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.980021652
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    36.13 kB
+| Total Host Footprint =    53.79 kB
+| Host Allocations =    37
+| Peak Device Footprint =     8.72 GB
+| Total Device Footprint =    10.14 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     5.406930000( 27.60%)
+| DFT GRID OPERATIONS =     0.168662000(  0.86%)
+| TOTAL SCF TIME      =    12.492877000( 63.76%)
+|       TOTAL OP TIME      =    11.883201000( 60.65%)
+|             TOTAL 1e TIME      =     0.075757000(  0.39%)
+|             TOTAL 2e TIME      =     9.695672000( 49.48%)
+|             TOTAL EXC TIME     =     1.930791000(  9.85%)
+|       TOTAL DII TIME      =     0.585861000(  2.99%)
+|             TOTAL DIAG TIME    =     0.127005000(  0.65%)
+| TOTAL TIME          =    19.593543000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 19.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:33:43 2026
+
+======== FILE: ./morphine-2/morphine_def2-TZVPD.out ========
+|  8   -939.984467298  0.102157E-03       0.204     8        0.08      0.12      0.01    0.5734E-03  0.6177E-05  0.2797E-03
+|  9   -939.984471193  0.389451E-05       0.205     9        0.08      0.12      0.01    0.3442E-03  0.2076E-05  0.1511E-03
+| 10   -939.984471727  0.533771E-06       0.209    10        0.08      0.12      0.01    0.9044E-04  0.7940E-06  0.4429E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  10 CYCLES
+| MAX ERROR = 0.904438E-04   RMS CHANGE = 0.793992E-06   MAX CHANGE = 0.442883E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.291742207
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.984471727
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    38.18 kB
+| Total Host Footprint =    59.76 kB
+| Host Allocations =    37
+| Peak Device Footprint =    12.00 GB
+| Total Device Footprint =    14.51 GB
+| Device Allocations =    51
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =    10.334512000( 24.63%)
+| DFT GRID OPERATIONS =     0.181762000(  0.43%)
+| TOTAL SCF TIME      =    29.627920000( 70.60%)
+|       TOTAL OP TIME      =    28.867540000( 68.79%)
+|             TOTAL 1e TIME      =     0.084474000(  0.20%)
+|             TOTAL 2e TIME      =    24.442340000( 58.24%)
+|             TOTAL EXC TIME     =     4.102521000(  9.78%)
+|       TOTAL DII TIME      =     0.724527000(  1.73%)
+|             TOTAL DIAG TIME    =     0.140484000(  0.33%)
+| TOTAL TIME          =    41.966947000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 42.0 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:34:50 2026
+
+======== FILE: ./morphine-2/morphine_3-21G.out ========
+|  9   -934.457741345  0.462461E-05       0.024     9        0.01      0.02      0.00    0.1580E-03  0.5574E-05  0.1511E-03
+| 10   -934.457741482  0.137685E-06       0.024    10        0.01      0.02      0.00    0.4503E-04  0.1862E-05  0.4921E-04
+| 11   -934.457741499  0.164837E-07       0.023     1        0.01      0.02      0.00    0.1155E-04  0.6083E-06  0.2199E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.115529E-04   RMS CHANGE = 0.608269E-06   MAX CHANGE = 0.219879E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2763.765011979
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -934.457741499
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Total Host Footprint =    36.94 kB
+| Host Allocations =    37
+| Peak Device Footprint =     3.61 GB
+| Total Device Footprint =     4.01 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.206378000( 39.76%)
+| DFT GRID OPERATIONS =     0.142261000(  4.69%)
+| TOTAL SCF TIME      =     0.395724000( 13.04%)
+|       TOTAL OP TIME      =     0.320280000( 10.56%)
+|             TOTAL 1e TIME      =     0.001709000(  0.06%)
+|             TOTAL 2e TIME      =     0.070215000(  2.31%)
+|             TOTAL EXC TIME     =     0.240363000(  7.92%)
+|       TOTAL DII TIME      =     0.074262000(  2.45%)
+|             TOTAL DIAG TIME    =     0.031103000(  1.03%)
+| TOTAL TIME          =     3.034146000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.0 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:32:59 2026
+
+======== FILE: ./morphine-2/morphine_def2-SV(P).out ========
+|  9   -938.927121821  0.236123E-05       0.042     9        0.01      0.03      0.00    0.2522E-03  0.6096E-05  0.3257E-03
+| 10   -938.927122097  0.276401E-06       0.042    10        0.01      0.03      0.00    0.5861E-04  0.2049E-05  0.8457E-04
+| 11   -938.927122119  0.219529E-07       0.042     1        0.01      0.03      0.00    0.2689E-04  0.6876E-06  0.2343E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.268923E-04   RMS CHANGE = 0.687561E-06   MAX CHANGE = 0.234257E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.234392600
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -938.927122119
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Total Host Footprint =    39.80 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.79 GB
+| Total Device Footprint =     5.39 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.285443000( 35.53%)
+| DFT GRID OPERATIONS =     0.147066000(  4.06%)
+| TOTAL SCF TIME      =     0.878002000( 24.27%)
+|       TOTAL OP TIME      =     0.733131000( 20.26%)
+|             TOTAL 1e TIME      =     0.008057000(  0.22%)
+|             TOTAL 2e TIME      =     0.201927000(  5.58%)
+|             TOTAL EXC TIME     =     0.497135000( 13.74%)
+|       TOTAL DII TIME      =     0.141752000(  3.92%)
+|             TOTAL DIAG TIME    =     0.047464000(  1.31%)
+| TOTAL TIME          =     3.618094000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:33:19 2026
+
+======== FILE: ./morphine-2/morphine_6-31G.out ========
+|  9   -939.338882863  0.224199E-05       0.024     9        0.01      0.02      0.00    0.1684E-03  0.7444E-05  0.1640E-03
+| 10   -939.338883014  0.151268E-06       0.023    10        0.01      0.02      0.00    0.3710E-04  0.2628E-05  0.5692E-04
+| 11   -939.338883042  0.278997E-07       0.025     1        0.01      0.02      0.00    0.1573E-04  0.7144E-06  0.2106E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.157338E-04   RMS CHANGE = 0.714385E-06   MAX CHANGE = 0.210569E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.646153523
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.338883042
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Total Host Footprint =    36.94 kB
+| Host Allocations =    37
+| Peak Device Footprint =     3.64 GB
+| Total Device Footprint =     4.32 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.260878000( 39.79%)
+| DFT GRID OPERATIONS =     0.147834000(  4.66%)
+| TOTAL SCF TIME      =     0.473397000( 14.94%)
+|       TOTAL OP TIME      =     0.399445000( 12.60%)
+|             TOTAL 1e TIME      =     0.001956000(  0.06%)
+|             TOTAL 2e TIME      =     0.101774000(  3.21%)
+|             TOTAL EXC TIME     =     0.287736000(  9.08%)
+|       TOTAL DII TIME      =     0.072780000(  2.30%)
+|             TOTAL DIAG TIME    =     0.031147000(  0.98%)
+| TOTAL TIME          =     3.169102000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.2 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:33:02 2026
+
+======== FILE: ./morphine-2/morphine_6-31G**.out ========
+|  9   -939.641712396  0.237014E-05       0.049     9        0.02      0.03      0.00    0.1706E-03  0.3765E-05  0.1934E-03
+| 10   -939.641712672  0.275820E-06       0.049    10        0.02      0.03      0.00    0.3924E-04  0.1436E-05  0.4908E-04
+| 11   -939.641712689  0.170621E-07       0.060     1        0.02      0.04      0.01    0.2557E-04  0.5281E-06  0.2649E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.255659E-04   RMS CHANGE = 0.528129E-06   MAX CHANGE = 0.264944E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.948983170
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.641712689
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Total Host Footprint =    41.47 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.93 GB
+| Total Device Footprint =     5.73 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.320567000( 34.28%)
+| DFT GRID OPERATIONS =     0.149746000(  3.89%)
+| TOTAL SCF TIME      =     1.060410000( 27.52%)
+|       TOTAL OP TIME      =     0.865405000( 22.46%)
+|             TOTAL 1e TIME      =     0.008568000(  0.22%)
+|             TOTAL 2e TIME      =     0.312951000(  8.12%)
+|             TOTAL EXC TIME     =     0.512257000( 13.30%)
+|       TOTAL DII TIME      =     0.190566000(  4.95%)
+|             TOTAL DIAG TIME    =     0.054391000(  1.41%)
+| TOTAL TIME          =     3.852834000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:33:10 2026
+
+======== FILE: ./morphine-2/morphine_6-31G*.out ========
+|  9   -939.606481199  0.241422E-05       0.042     9        0.01      0.03      0.00    0.1746E-03  0.4327E-05  0.1884E-03
+| 10   -939.606481452  0.253238E-06       0.042    10        0.01      0.03      0.00    0.3793E-04  0.1617E-05  0.4686E-04
+| 11   -939.606481472  0.199229E-07       0.043     1        0.02      0.03      0.00    0.2428E-04  0.6035E-06  0.2581E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.242769E-04   RMS CHANGE = 0.603516E-06   MAX CHANGE = 0.258118E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.913751953
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.606481472
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Total Host Footprint =    39.80 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.78 GB
+| Total Device Footprint =     5.48 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.303712000( 35.25%)
+| DFT GRID OPERATIONS =     0.147671000(  3.99%)
+| TOTAL SCF TIME      =     0.929294000( 25.13%)
+|       TOTAL OP TIME      =     0.773716000( 20.92%)
+|             TOTAL 1e TIME      =     0.008276000(  0.22%)
+|             TOTAL 2e TIME      =     0.257229000(  6.96%)
+|             TOTAL EXC TIME     =     0.483594000( 13.08%)
+|       TOTAL DII TIME      =     0.152458000(  4.12%)
+|             TOTAL DIAG TIME    =     0.047971000(  1.30%)
+| TOTAL TIME          =     3.698084000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:33:06 2026
+
+======== FILE: ./morphine-2/morphine_def2-SVP.out ========
+|  9   -938.974456876  0.233278E-05       0.049     9        0.02      0.03      0.00    0.2532E-03  0.5130E-05  0.2998E-03
+| 10   -938.974457164  0.288502E-06       0.050    10        0.02      0.03      0.00    0.6062E-04  0.1766E-05  0.8025E-04
+| 11   -938.974457192  0.278487E-07       0.057     1        0.02      0.03      0.00    0.2835E-04  0.5868E-06  0.2066E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.283479E-04   RMS CHANGE = 0.586801E-06   MAX CHANGE = 0.206632E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.281727673
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -938.974457192
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Total Host Footprint =    41.47 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.96 GB
+| Total Device Footprint =     5.66 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.304325000( 34.17%)
+| DFT GRID OPERATIONS =     0.150861000(  3.95%)
+| TOTAL SCF TIME      =     1.042876000( 27.32%)
+|       TOTAL OP TIME      =     0.846528000( 22.17%)
+|             TOTAL 1e TIME      =     0.008819000(  0.23%)
+|             TOTAL 2e TIME      =     0.250595000(  6.56%)
+|             TOTAL EXC TIME     =     0.554872000( 14.53%)
+|       TOTAL DII TIME      =     0.191902000(  5.03%)
+|             TOTAL DIAG TIME    =     0.054882000(  1.44%)
+| TOTAL TIME          =     3.817588000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:33:23 2026
+
+======== FILE: ./morphine-2/morphine_6-31+G**.out ========
+| 10   -939.676926605  0.174223E-06       0.062    10        0.02      0.04      0.01    0.5180E-04  0.3081E-05  0.2042E-03
+| 11   -939.676926634  0.287478E-07       0.066     1        0.03      0.04      0.01    0.2200E-04  0.1238E-05  0.4682E-04
+| 12   -939.676926642  0.801174E-08       0.065     2        0.02      0.04      0.01    0.1624E-04  0.4297E-06  0.1847E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  12 CYCLES
+| MAX ERROR = 0.162424E-04   RMS CHANGE = 0.429686E-06   MAX CHANGE = 0.184724E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.984197123
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.676926642
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    33.50 kB
+| Total Host Footprint =    44.50 kB
+| Host Allocations =    37
+| Peak Device Footprint =     5.65 GB
+| Total Device Footprint =     6.92 GB
+| Device Allocations =    57
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.331017000( 28.43%)
+| DFT GRID OPERATIONS =     0.154500000(  3.30%)
+| TOTAL SCF TIME      =     1.835221000( 39.19%)
+|       TOTAL OP TIME      =     1.563415000( 33.39%)
+|             TOTAL 1e TIME      =     0.009775000(  0.21%)
+|             TOTAL 2e TIME      =     0.574016000( 12.26%)
+|             TOTAL EXC TIME     =     0.934181000( 19.95%)
+|       TOTAL DII TIME      =     0.263804000(  5.63%)
+|             TOTAL DIAG TIME    =     0.070532000(  1.51%)
+| TOTAL TIME          =     4.682329000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  4.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:33:15 2026
+
+======== FILE: ./morphine-2/morphine_def2-TZVPP.out ========
+|  8   -939.988583554  0.119590E-03       0.189     8        0.08      0.11      0.01    0.6019E-03  0.6774E-05  0.8189E-03
+|  9   -939.988586649  0.309423E-05       0.192     9        0.08      0.11      0.01    0.3769E-03  0.2381E-05  0.3345E-03
+| 10   -939.988587152  0.503045E-06       0.193    10        0.08      0.11      0.01    0.8678E-04  0.7548E-06  0.4674E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  10 CYCLES
+| MAX ERROR = 0.867813E-04   RMS CHANGE = 0.754770E-06   MAX CHANGE = 0.467392E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.295857632
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.988587152
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    37.34 kB
+| Total Host Footprint =    58.05 kB
+| Host Allocations =    37
+| Peak Device Footprint =    10.27 GB
+| Total Device Footprint =    12.11 GB
+| Device Allocations =    51
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     7.453316000( 29.91%)
+| DFT GRID OPERATIONS =     0.174271000(  0.70%)
+| TOTAL SCF TIME      =    15.695971000( 62.99%)
+|       TOTAL OP TIME      =    14.966071000( 60.06%)
+|             TOTAL 1e TIME      =     0.080708000(  0.32%)
+|             TOTAL 2e TIME      =    12.446469000( 49.95%)
+|             TOTAL EXC TIME     =     2.216986000(  8.90%)
+|       TOTAL DII TIME      =     0.696468000(  2.80%)
+|             TOTAL DIAG TIME    =     0.144844000(  0.58%)
+| TOTAL TIME          =    24.918129000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 24.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:34:08 2026
+
+======== FILE: ./morphine-1/morphine_def2-TZVP.out ========
+|  9   -939.980021125  0.303167E-05       0.143     9        0.06      0.09      0.01    0.3734E-03  0.3066E-05  0.4658E-03
+| 10   -939.980021611  0.485856E-06       0.145    10        0.06      0.09      0.01    0.8640E-04  0.1012E-05  0.5754E-04
+| 11   -939.980021651  0.396276E-07       0.168     1        0.08      0.09      0.01    0.3114E-04  0.3308E-06  0.2533E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.311403E-04   RMS CHANGE = 0.330780E-06   MAX CHANGE = 0.253333E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.287292131
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.980021651
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    36.13 kB
+| Total Host Footprint =    53.79 kB
+| Host Allocations =    37
+| Peak Device Footprint =     8.72 GB
+| Total Device Footprint =    10.14 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     5.473227000( 26.08%)
+| DFT GRID OPERATIONS =     0.396277000(  1.89%)
+| TOTAL SCF TIME      =    12.614300000( 60.11%)
+|       TOTAL OP TIME      =    11.999713000( 57.18%)
+|             TOTAL 1e TIME      =     0.088187000(  0.42%)
+|             TOTAL 2e TIME      =     9.769142000( 46.55%)
+|             TOTAL EXC TIME     =     1.944826000(  9.27%)
+|       TOTAL DII TIME      =     0.590497000(  2.81%)
+|             TOTAL DIAG TIME    =     0.127297000(  0.61%)
+| TOTAL TIME          =    20.986682000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 21.0 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:31:47 2026
+
+======== FILE: ./morphine-1/morphine_def2-TZVPD.out ========
+|  8   -939.984467296  0.102157E-03       0.204     8        0.08      0.12      0.01    0.5734E-03  0.6177E-05  0.2793E-03
+|  9   -939.984471191  0.389435E-05       0.207     9        0.08      0.12      0.01    0.3442E-03  0.2077E-05  0.1513E-03
+| 10   -939.984471726  0.534769E-06       0.210    10        0.08      0.12      0.01    0.9044E-04  0.7941E-06  0.4427E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  10 CYCLES
+| MAX ERROR = 0.904440E-04   RMS CHANGE = 0.794143E-06   MAX CHANGE = 0.442681E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.291742206
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.984471726
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    38.18 kB
+| Total Host Footprint =    59.76 kB
+| Host Allocations =    37
+| Peak Device Footprint =    12.00 GB
+| Total Device Footprint =    14.51 GB
+| Device Allocations =    51
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =    10.469108000( 24.80%)
+| DFT GRID OPERATIONS =     0.173958000(  0.41%)
+| TOTAL SCF TIME      =    29.864816000( 70.75%)
+|       TOTAL OP TIME      =    29.104739000( 68.95%)
+|             TOTAL 1e TIME      =     0.084137000(  0.20%)
+|             TOTAL 2e TIME      =    24.657019000( 58.42%)
+|             TOTAL EXC TIME     =     4.122959000(  9.77%)
+|       TOTAL DII TIME      =     0.722739000(  1.71%)
+|             TOTAL DIAG TIME    =     0.143657000(  0.34%)
+| TOTAL TIME          =    42.209896000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 42.2 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:32:56 2026
+
+======== FILE: ./morphine-1/morphine_3-21G.out ========
+|  9   -934.457741347  0.462288E-05       0.024     9        0.01      0.02      0.00    0.1580E-03  0.5574E-05  0.1511E-03
+| 10   -934.457741484  0.137903E-06       0.025    10        0.01      0.02      0.00    0.4503E-04  0.1862E-05  0.4921E-04
+| 11   -934.457741501  0.167993E-07       0.023     1        0.01      0.02      0.00    0.1155E-04  0.6083E-06  0.2199E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.115529E-04   RMS CHANGE = 0.608273E-06   MAX CHANGE = 0.219905E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2763.765011982
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -934.457741501
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Total Host Footprint =    36.94 kB
+| Host Allocations =    37
+| Peak Device Footprint =     3.61 GB
+| Total Device Footprint =     4.01 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.419150000( 19.45%)
+| DFT GRID OPERATIONS =     0.163368000(  2.24%)
+| TOTAL SCF TIME      =     0.571232000(  7.83%)
+|       TOTAL OP TIME      =     0.492512000(  6.75%)
+|             TOTAL 1e TIME      =     0.026922000(  0.37%)
+|             TOTAL 2e TIME      =     0.162278000(  2.22%)
+|             TOTAL EXC TIME     =     0.269792000(  3.70%)
+|       TOTAL DII TIME      =     0.077465000(  1.06%)
+|             TOTAL DIAG TIME    =     0.031725000(  0.43%)
+| TOTAL TIME          =     7.297715000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  7.3 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:30:55 2026
+
+======== FILE: ./morphine-1/morphine_def2-SV(P).out ========
+|  9   -938.927121820  0.235969E-05       0.055     9        0.02      0.03      0.00    0.2522E-03  0.6096E-05  0.3257E-03
+| 10   -938.927122101  0.281017E-06       0.043    10        0.01      0.03      0.00    0.5861E-04  0.2049E-05  0.8454E-04
+| 11   -938.927122120  0.189307E-07       0.046     1        0.02      0.03      0.00    0.2689E-04  0.6872E-06  0.2331E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.268922E-04   RMS CHANGE = 0.687217E-06   MAX CHANGE = 0.233100E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.234392601
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -938.927122120
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Total Host Footprint =    39.80 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.79 GB
+| Total Device Footprint =     5.39 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.329109000( 25.34%)
+| DFT GRID OPERATIONS =     0.152391000(  2.91%)
+| TOTAL SCF TIME      =     2.376632000( 45.31%)
+|       TOTAL OP TIME      =     0.743204000( 14.17%)
+|             TOTAL 1e TIME      =     0.007695000(  0.15%)
+|             TOTAL 2e TIME      =     0.201986000(  3.85%)
+|             TOTAL EXC TIME     =     0.501318000(  9.56%)
+|       TOTAL DII TIME      =     1.630167000( 31.08%)
+|             TOTAL DIAG TIME    =     0.284399000(  5.42%)
+| TOTAL TIME          =     5.245541000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.2 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:31:22 2026
+
+======== FILE: ./morphine-1/morphine_6-31G.out ========
+|  9   -939.338882864  0.224120E-05       0.038     9        0.02      0.02      0.00    0.1684E-03  0.7444E-05  0.1640E-03
+| 10   -939.338883016  0.151977E-06       0.024    10        0.01      0.02      0.00    0.3710E-04  0.2628E-05  0.5693E-04
+| 11   -939.338883043  0.267964E-07       0.026     1        0.01      0.02      0.00    0.1573E-04  0.7143E-06  0.2106E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.157338E-04   RMS CHANGE = 0.714333E-06   MAX CHANGE = 0.210568E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.646153523
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.338883043
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Total Host Footprint =    36.94 kB
+| Host Allocations =    37
+| Peak Device Footprint =     3.64 GB
+| Total Device Footprint =     4.32 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.770320000( 37.25%)
+| DFT GRID OPERATIONS =     0.144223000(  3.03%)
+| TOTAL SCF TIME      =     1.192150000( 25.09%)
+|       TOTAL OP TIME      =     0.425145000(  8.95%)
+|             TOTAL 1e TIME      =     0.001985000(  0.04%)
+|             TOTAL 2e TIME      =     0.101732000(  2.14%)
+|             TOTAL EXC TIME     =     0.311309000(  6.55%)
+|       TOTAL DII TIME      =     0.765805000( 16.11%)
+|             TOTAL DIAG TIME    =     0.244503000(  5.15%)
+| TOTAL TIME          =     4.752149000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  4.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:31:02 2026
+
+======== FILE: ./morphine-1/morphine_6-31G**.out ========
+|  9   -939.641712397  0.237194E-05       0.051     9        0.02      0.03      0.00    0.1706E-03  0.3765E-05  0.1933E-03
+| 10   -939.641712671  0.273866E-06       0.051    10        0.02      0.03      0.01    0.3924E-04  0.1436E-05  0.4908E-04
+| 11   -939.641712691  0.200116E-07       0.054     1        0.02      0.03      0.01    0.2557E-04  0.5281E-06  0.2649E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.255659E-04   RMS CHANGE = 0.528141E-06   MAX CHANGE = 0.264943E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.948983172
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.641712691
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Total Host Footprint =    41.47 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.93 GB
+| Total Device Footprint =     5.73 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.408884000( 24.65%)
+| DFT GRID OPERATIONS =     0.199339000(  3.49%)
+| TOTAL SCF TIME      =     1.882616000( 32.94%)
+|       TOTAL OP TIME      =     0.876362000( 15.33%)
+|             TOTAL 1e TIME      =     0.008522000(  0.15%)
+|             TOTAL 2e TIME      =     0.316026000(  5.53%)
+|             TOTAL EXC TIME     =     0.517165000(  9.05%)
+|       TOTAL DII TIME      =     1.001515000( 17.52%)
+|             TOTAL DIAG TIME    =     0.537785000(  9.41%)
+| TOTAL TIME          =     5.715421000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:31:12 2026
+
+======== FILE: ./morphine-1/morphine_6-31G*.out ========
+|  9   -939.606481200  0.241488E-05       0.046     9        0.02      0.03      0.00    0.1746E-03  0.4327E-05  0.1884E-03
+| 10   -939.606481450  0.250019E-06       0.045    10        0.02      0.03      0.00    0.3793E-04  0.1617E-05  0.4686E-04
+| 11   -939.606481469  0.192272E-07       0.046     1        0.02      0.03      0.00    0.2428E-04  0.6035E-06  0.2581E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.242769E-04   RMS CHANGE = 0.603490E-06   MAX CHANGE = 0.258118E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.913751950
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.606481469
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Total Host Footprint =    39.80 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.78 GB
+| Total Device Footprint =     5.48 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.348599000( 35.68%)
+| DFT GRID OPERATIONS =     0.151868000(  4.02%)
+| TOTAL SCF TIME      =     0.949753000( 25.12%)
+|       TOTAL OP TIME      =     0.782263000( 20.69%)
+|             TOTAL 1e TIME      =     0.008147000(  0.22%)
+|             TOTAL 2e TIME      =     0.257786000(  6.82%)
+|             TOTAL EXC TIME     =     0.488893000( 12.93%)
+|       TOTAL DII TIME      =     0.164177000(  4.34%)
+|             TOTAL DIAG TIME    =     0.048729000(  1.29%)
+| TOTAL TIME          =     3.780213000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:31:06 2026
+
+======== FILE: ./morphine-1/morphine_def2-SVP.out ========
+|  9   -938.974456875  0.233258E-05       0.050     9        0.02      0.03      0.00    0.2532E-03  0.5130E-05  0.2997E-03
+| 10   -938.974457167  0.291121E-06       0.050    10        0.02      0.03      0.00    0.6062E-04  0.1766E-05  0.8015E-04
+| 11   -938.974457194  0.270102E-07       0.052     1        0.02      0.03      0.00    0.2835E-04  0.5866E-06  0.2060E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.283478E-04   RMS CHANGE = 0.586618E-06   MAX CHANGE = 0.206022E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.281727674
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -938.974457194
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Total Host Footprint =    41.47 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.96 GB
+| Total Device Footprint =     5.66 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.401414000( 34.09%)
+| DFT GRID OPERATIONS =     0.150011000(  3.65%)
+| TOTAL SCF TIME      =     1.044803000( 25.42%)
+|       TOTAL OP TIME      =     0.848101000( 20.63%)
+|             TOTAL 1e TIME      =     0.008908000(  0.22%)
+|             TOTAL 2e TIME      =     0.250890000(  6.10%)
+|             TOTAL EXC TIME     =     0.555091000( 13.50%)
+|       TOTAL DII TIME      =     0.192201000(  4.68%)
+|             TOTAL DIAG TIME    =     0.055322000(  1.35%)
+| TOTAL TIME          =     4.110618000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  4.1 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:31:26 2026
+
+======== FILE: ./morphine-1/morphine_6-31+G**.out ========
+| 10   -939.676926604  0.175173E-06       0.062    10        0.02      0.04      0.01    0.5180E-04  0.3079E-05  0.2076E-03
+| 11   -939.676926634  0.299292E-07       0.066     1        0.03      0.04      0.01    0.2200E-04  0.1243E-05  0.4597E-04
+| 12   -939.676926639  0.513228E-08       0.065     2        0.02      0.04      0.01    0.1624E-04  0.4326E-06  0.1702E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  12 CYCLES
+| MAX ERROR = 0.162424E-04   RMS CHANGE = 0.432583E-06   MAX CHANGE = 0.170157E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.984197120
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.676926639
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    33.50 kB
+| Total Host Footprint =    44.50 kB
+| Host Allocations =    37
+| Peak Device Footprint =     5.65 GB
+| Total Device Footprint =     6.92 GB
+| Device Allocations =    57
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.366750000( 28.81%)
+| DFT GRID OPERATIONS =     0.160220000(  3.38%)
+| TOTAL SCF TIME      =     1.849166000( 38.98%)
+|       TOTAL OP TIME      =     1.574607000( 33.19%)
+|             TOTAL 1e TIME      =     0.009977000(  0.21%)
+|             TOTAL 2e TIME      =     0.575066000( 12.12%)
+|             TOTAL EXC TIME     =     0.941901000( 19.86%)
+|       TOTAL DII TIME      =     0.264458000(  5.57%)
+|             TOTAL DIAG TIME    =     0.070871000(  1.49%)
+| TOTAL TIME          =     4.743660000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  4.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:31:17 2026
+
+======== FILE: ./morphine-1/morphine_def2-TZVPP.out ========
+|  8   -939.988583553  0.119591E-03       0.190     8        0.08      0.11      0.01    0.6019E-03  0.6774E-05  0.8188E-03
+|  9   -939.988586647  0.309360E-05       0.194     9        0.08      0.11      0.01    0.3769E-03  0.2381E-05  0.3342E-03
+| 10   -939.988587151  0.503588E-06       0.192    10        0.08      0.11      0.01    0.8678E-04  0.7553E-06  0.4686E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  10 CYCLES
+| MAX ERROR = 0.867813E-04   RMS CHANGE = 0.755259E-06   MAX CHANGE = 0.468639E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.295857631
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.988587151
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    37.34 kB
+| Total Host Footprint =    58.05 kB
+| Host Allocations =    37
+| Peak Device Footprint =    10.27 GB
+| Total Device Footprint =    12.11 GB
+| Device Allocations =    51
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     7.501575000( 29.06%)
+| DFT GRID OPERATIONS =     0.176297000(  0.68%)
+| TOTAL SCF TIME      =    16.493099000( 63.90%)
+|       TOTAL OP TIME      =    15.012856000( 58.16%)
+|             TOTAL 1e TIME      =     0.081130000(  0.31%)
+|             TOTAL 2e TIME      =    12.472501000( 48.32%)
+|             TOTAL EXC TIME     =     2.235197000(  8.66%)
+|       TOTAL DII TIME      =     1.444867000(  5.60%)
+|             TOTAL DIAG TIME    =     0.220017000(  0.85%)
+| TOTAL TIME          =    25.811607000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 25.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:32:13 2026
+
+======== FILE: ./morphine-3/morphine_def2-TZVP.out ========
+|  9   -939.980021129  0.303228E-05       0.142     9        0.06      0.08      0.01    0.3734E-03  0.3065E-05  0.4653E-03
+| 10   -939.980021615  0.486724E-06       0.145    10        0.06      0.09      0.01    0.8640E-04  0.1012E-05  0.5767E-04
+| 11   -939.980021655  0.400555E-07       0.158     1        0.07      0.08      0.01    0.3114E-04  0.3307E-06  0.2526E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.311404E-04   RMS CHANGE = 0.330742E-06   MAX CHANGE = 0.252589E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.287292136
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.980021655
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    36.13 kB
+| Total Host Footprint =    53.79 kB
+| Host Allocations =    37
+| Peak Device Footprint =     8.72 GB
+| Total Device Footprint =    10.14 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     5.471776000( 27.50%)
+| DFT GRID OPERATIONS =     0.166365000(  0.84%)
+| TOTAL SCF TIME      =    12.674843000( 63.71%)
+|       TOTAL OP TIME      =    12.059829000( 60.62%)
+|             TOTAL 1e TIME      =     0.075402000(  0.38%)
+|             TOTAL 2e TIME      =     9.876351000( 49.64%)
+|             TOTAL EXC TIME     =     1.929511000(  9.70%)
+|       TOTAL DII TIME      =     0.590594000(  2.97%)
+|             TOTAL DIAG TIME    =     0.127312000(  0.64%)
+| TOTAL TIME          =    19.894757000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 19.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:35:38 2026
+
+======== FILE: ./morphine-3/morphine_def2-TZVPD.out ========
+|  8   -939.984467295  0.102157E-03       0.202     8        0.08      0.12      0.01    0.5734E-03  0.6177E-05  0.2798E-03
+|  9   -939.984471189  0.389444E-05       0.205     9        0.08      0.12      0.01    0.3442E-03  0.2077E-05  0.1514E-03
+| 10   -939.984471723  0.533923E-06       0.208    10        0.08      0.12      0.01    0.9044E-04  0.7937E-06  0.4407E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  10 CYCLES
+| MAX ERROR = 0.904440E-04   RMS CHANGE = 0.793678E-06   MAX CHANGE = 0.440735E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.291742204
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.984471723
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    38.18 kB
+| Total Host Footprint =    59.76 kB
+| Host Allocations =    37
+| Peak Device Footprint =    12.00 GB
+| Total Device Footprint =    14.51 GB
+| Device Allocations =    51
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =    10.308666000( 24.66%)
+| DFT GRID OPERATIONS =     0.173839000(  0.42%)
+| TOTAL SCF TIME      =    29.642598000( 70.92%)
+|       TOTAL OP TIME      =    28.894418000( 69.13%)
+|             TOTAL 1e TIME      =     0.083356000(  0.20%)
+|             TOTAL 2e TIME      =    24.456986000( 58.51%)
+|             TOTAL EXC TIME     =     4.118695000(  9.85%)
+|       TOTAL DII TIME      =     0.711624000(  1.70%)
+|             TOTAL DIAG TIME    =     0.141687000(  0.34%)
+| TOTAL TIME          =    41.797664000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 41.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:36:45 2026
+
+======== FILE: ./morphine-3/morphine_3-21G.out ========
+|  9   -934.457741349  0.462689E-05       0.024     9        0.01      0.02      0.00    0.1580E-03  0.5574E-05  0.1511E-03
+| 10   -934.457741485  0.135937E-06       0.024    10        0.01      0.02      0.00    0.4503E-04  0.1862E-05  0.4920E-04
+| 11   -934.457741502  0.171954E-07       0.023     1        0.01      0.02      0.00    0.1155E-04  0.6082E-06  0.2199E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.115530E-04   RMS CHANGE = 0.608248E-06   MAX CHANGE = 0.219858E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2763.765011982
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -934.457741502
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Total Host Footprint =    36.94 kB
+| Host Allocations =    37
+| Peak Device Footprint =     3.61 GB
+| Total Device Footprint =     4.01 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.222373000( 39.13%)
+| DFT GRID OPERATIONS =     0.143514000(  4.59%)
+| TOTAL SCF TIME      =     0.397387000( 12.72%)
+|       TOTAL OP TIME      =     0.322170000( 10.31%)
+|             TOTAL 1e TIME      =     0.001842000(  0.06%)
+|             TOTAL 2e TIME      =     0.072299000(  2.31%)
+|             TOTAL EXC TIME     =     0.239393000(  7.66%)
+|       TOTAL DII TIME      =     0.073960000(  2.37%)
+|             TOTAL DIAG TIME    =     0.031143000(  1.00%)
+| TOTAL TIME          =     3.123778000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.1 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:34:53 2026
+
+======== FILE: ./morphine-3/morphine_def2-SV(P).out ========
+|  9   -938.927121823  0.236306E-05       0.042     9        0.01      0.03      0.00    0.2522E-03  0.6096E-05  0.3258E-03
+| 10   -938.927122103  0.279545E-06       0.041    10        0.01      0.03      0.00    0.5861E-04  0.2049E-05  0.8458E-04
+| 11   -938.927122123  0.197851E-07       0.042     1        0.01      0.03      0.00    0.2689E-04  0.6876E-06  0.2345E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.268923E-04   RMS CHANGE = 0.687622E-06   MAX CHANGE = 0.234486E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.234392603
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -938.927122123
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Total Host Footprint =    39.80 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.79 GB
+| Total Device Footprint =     5.39 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.301045000( 34.54%)
+| DFT GRID OPERATIONS =     0.150302000(  3.99%)
+| TOTAL SCF TIME      =     0.883592000( 23.46%)
+|       TOTAL OP TIME      =     0.734671000( 19.50%)
+|             TOTAL 1e TIME      =     0.008104000(  0.22%)
+|             TOTAL 2e TIME      =     0.202444000(  5.37%)
+|             TOTAL EXC TIME     =     0.497399000( 13.20%)
+|       TOTAL DII TIME      =     0.145769000(  3.87%)
+|             TOTAL DIAG TIME    =     0.047314000(  1.26%)
+| TOTAL TIME          =     3.767036000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:35:14 2026
+
+======== FILE: ./morphine-3/morphine_6-31G.out ========
+|  9   -939.338882862  0.224208E-05       0.024     9        0.01      0.02      0.00    0.1684E-03  0.7444E-05  0.1640E-03
+| 10   -939.338883016  0.153652E-06       0.023    10        0.01      0.02      0.00    0.3710E-04  0.2628E-05  0.5692E-04
+| 11   -939.338883043  0.264358E-07       0.025     1        0.01      0.02      0.00    0.1573E-04  0.7144E-06  0.2106E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.157338E-04   RMS CHANGE = 0.714447E-06   MAX CHANGE = 0.210569E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.646153523
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.338883043
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Total Host Footprint =    36.94 kB
+| Host Allocations =    37
+| Peak Device Footprint =     3.64 GB
+| Total Device Footprint =     4.32 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.245441000( 38.44%)
+| DFT GRID OPERATIONS =     0.145002000(  4.48%)
+| TOTAL SCF TIME      =     0.471260000( 14.54%)
+|       TOTAL OP TIME      =     0.394973000( 12.19%)
+|             TOTAL 1e TIME      =     0.001900000(  0.06%)
+|             TOTAL 2e TIME      =     0.098886000(  3.05%)
+|             TOTAL EXC TIME     =     0.286094000(  8.83%)
+|       TOTAL DII TIME      =     0.075085000(  2.32%)
+|             TOTAL DIAG TIME    =     0.032668000(  1.01%)
+| TOTAL TIME          =     3.240188000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.2 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:34:57 2026
+
+======== FILE: ./morphine-3/morphine_6-31G**.out ========
+|  9   -939.641712396  0.237219E-05       0.051     9        0.02      0.03      0.00    0.1706E-03  0.3765E-05  0.1934E-03
+| 10   -939.641712670  0.274153E-06       0.051    10        0.02      0.03      0.01    0.3924E-04  0.1436E-05  0.4908E-04
+| 11   -939.641712689  0.190439E-07       0.054     1        0.02      0.03      0.01    0.2557E-04  0.5281E-06  0.2649E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.255660E-04   RMS CHANGE = 0.528131E-06   MAX CHANGE = 0.264944E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.948983170
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.641712689
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Total Host Footprint =    41.47 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.93 GB
+| Total Device Footprint =     5.73 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.334311000( 33.89%)
+| DFT GRID OPERATIONS =     0.149452000(  3.80%)
+| TOTAL SCF TIME      =     1.077428000( 27.36%)
+|       TOTAL OP TIME      =     0.869922000( 22.09%)
+|             TOTAL 1e TIME      =     0.008856000(  0.22%)
+|             TOTAL 2e TIME      =     0.310331000(  7.88%)
+|             TOTAL EXC TIME     =     0.516365000( 13.11%)
+|       TOTAL DII TIME      =     0.202768000(  5.15%)
+|             TOTAL DIAG TIME    =     0.055073000(  1.40%)
+| TOTAL TIME          =     3.937683000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:35:05 2026
+
+======== FILE: ./morphine-3/morphine_6-31G*.out ========
+|  9   -939.606481200  0.241318E-05       0.045     9        0.02      0.03      0.00    0.1746E-03  0.4327E-05  0.1884E-03
+| 10   -939.606481453  0.252095E-06       0.045    10        0.02      0.03      0.00    0.3793E-04  0.1617E-05  0.4686E-04
+| 11   -939.606481474  0.211817E-07       0.046     1        0.02      0.03      0.00    0.2428E-04  0.6035E-06  0.2581E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.242768E-04   RMS CHANGE = 0.603521E-06   MAX CHANGE = 0.258118E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.913751954
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.606481474
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Total Host Footprint =    39.80 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.78 GB
+| Total Device Footprint =     5.48 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.301363000( 34.65%)
+| DFT GRID OPERATIONS =     0.148882000(  3.96%)
+| TOTAL SCF TIME      =     0.938463000( 24.99%)
+|       TOTAL OP TIME      =     0.776354000( 20.67%)
+|             TOTAL 1e TIME      =     0.008104000(  0.22%)
+|             TOTAL 2e TIME      =     0.256477000(  6.83%)
+|             TOTAL EXC TIME     =     0.485042000( 12.91%)
+|       TOTAL DII TIME      =     0.158784000(  4.23%)
+|             TOTAL DIAG TIME    =     0.048642000(  1.30%)
+| TOTAL TIME          =     3.755694000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:35:01 2026
+
+======== FILE: ./morphine-3/morphine_def2-SVP.out ========
+|  9   -938.974456874  0.233237E-05       0.050     9        0.02      0.03      0.00    0.2532E-03  0.5130E-05  0.2998E-03
+| 10   -938.974457166  0.291830E-06       0.050    10        0.02      0.03      0.00    0.6062E-04  0.1766E-05  0.8018E-04
+| 11   -938.974457193  0.274208E-07       0.051     1        0.02      0.03      0.00    0.2835E-04  0.5867E-06  0.2057E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  11 CYCLES
+| MAX ERROR = 0.283478E-04   RMS CHANGE = 0.586740E-06   MAX CHANGE = 0.205727E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.281727674
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -938.974457193
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Total Host Footprint =    41.47 kB
+| Host Allocations =    37
+| Peak Device Footprint =     4.96 GB
+| Total Device Footprint =     5.66 GB
+| Device Allocations =    54
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.318959000( 33.40%)
+| DFT GRID OPERATIONS =     0.154742000(  3.92%)
+| TOTAL SCF TIME      =     1.042077000( 26.39%)
+|       TOTAL OP TIME      =     0.846747000( 21.44%)
+|             TOTAL 1e TIME      =     0.009062000(  0.23%)
+|             TOTAL 2e TIME      =     0.250419000(  6.34%)
+|             TOTAL EXC TIME     =     0.554803000( 14.05%)
+|       TOTAL DII TIME      =     0.190838000(  4.83%)
+|             TOTAL DIAG TIME    =     0.054646000(  1.38%)
+| TOTAL TIME          =     3.948686000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  3.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:35:18 2026
+
+======== FILE: ./morphine-3/morphine_6-31+G**.out ========
+| 10   -939.676926604  0.175055E-06       0.064    10        0.02      0.04      0.01    0.5180E-04  0.3072E-05  0.2027E-03
+| 11   -939.676926633  0.287755E-07       0.068     1        0.03      0.04      0.01    0.2200E-04  0.1242E-05  0.4699E-04
+| 12   -939.676926640  0.646514E-08       0.068     2        0.03      0.04      0.01    0.1624E-04  0.4280E-06  0.1761E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  12 CYCLES
+| MAX ERROR = 0.162424E-04   RMS CHANGE = 0.428047E-06   MAX CHANGE = 0.176123E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2768.984197120
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.676926640
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    33.50 kB
+| Total Host Footprint =    44.50 kB
+| Host Allocations =    37
+| Peak Device Footprint =     5.65 GB
+| Total Device Footprint =     6.92 GB
+| Device Allocations =    57
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     1.342977000( 27.93%)
+| DFT GRID OPERATIONS =     0.159729000(  3.32%)
+| TOTAL SCF TIME      =     1.850368000( 38.49%)
+|       TOTAL OP TIME      =     1.568743000( 32.63%)
+|             TOTAL 1e TIME      =     0.009669000(  0.20%)
+|             TOTAL 2e TIME      =     0.577702000( 12.02%)
+|             TOTAL EXC TIME     =     0.934024000( 19.43%)
+|       TOTAL DII TIME      =     0.272973000(  5.68%)
+|             TOTAL DIAG TIME    =     0.070962000(  1.48%)
+| TOTAL TIME          =     4.807704000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  4.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:35:10 2026
+
+======== FILE: ./morphine-3/morphine_def2-TZVPP.out ========
+|  8   -939.988583555  0.119592E-03       0.188     8        0.08      0.11      0.01    0.6019E-03  0.6775E-05  0.8194E-03
+|  9   -939.988586649  0.309416E-05       0.192     9        0.08      0.11      0.01    0.3769E-03  0.2382E-05  0.3346E-03
+| 10   -939.988587151  0.502546E-06       0.192    10        0.08      0.11      0.01    0.8678E-04  0.7556E-06  0.4666E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  10 CYCLES
+| MAX ERROR = 0.867813E-04   RMS CHANGE = 0.755590E-06   MAX CHANGE = 0.466611E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =    76.0000000000
+ BETA ELECTRON DENSITY     =    76.0000000000
+ ELECTRONIC ENERGY    =  -2769.295857632
+ CORE_CORE REPULSION  =   1829.307270481
+ TOTAL ENERGY         =   -939.988587151
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    37.34 kB
+| Total Host Footprint =    58.05 kB
+| Host Allocations =    37
+| Peak Device Footprint =    10.27 GB
+| Total Device Footprint =    12.11 GB
+| Device Allocations =    51
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| INITIAL GUESS TIME  =     7.435121000( 29.87%)
+| DFT GRID OPERATIONS =     0.173483000(  0.70%)
+| TOTAL SCF TIME      =    15.686120000( 63.02%)
+|       TOTAL OP TIME      =    14.956132000( 60.09%)
+|             TOTAL 1e TIME      =     0.081465000(  0.33%)
+|             TOTAL 2e TIME      =    12.438909000( 49.98%)
+|             TOTAL EXC TIME     =     2.213141000(  8.89%)
+|       TOTAL DII TIME      =     0.695891000(  2.80%)
+|             TOTAL DIAG TIME    =     0.142741000(  0.57%)
+| TOTAL TIME          =    24.889181000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 24.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Mon Jul 20 14:36:03 2026

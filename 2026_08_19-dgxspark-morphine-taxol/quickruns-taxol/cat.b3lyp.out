@@ -1,0 +1,364 @@
+
+======== FILE: ./taxol/taxol-1/taxol_3-21G.out ========
+| 19  -2911.115775400  0.296859E-04       6.489     9        0.06      6.43      0.03    0.4862E-03  0.7911E-05  0.3966E-03
+| 20  -2911.115777386  0.198571E-05       6.486    10        0.06      6.42      0.03    0.1484E-03  0.3323E-05  0.1652E-03
+| 21  -2911.115777741  0.355320E-06       6.501     1        0.06      6.44      0.03    0.8626E-04  0.1248E-05  0.8973E-04
+| 22  -2911.115777825  0.836935E-07       6.486     2        0.06      6.42      0.03    0.3096E-04  0.3775E-06  0.2170E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  22 CYCLES
+| MAX ERROR = 0.309641E-04   RMS CHANGE = 0.377457E-06   MAX CHANGE = 0.216953E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =   223.0010817086
+ BETA ELECTRON DENSITY     =   223.0010817086
+ ELECTRONIC ENERGY    = -12578.185653149
+ CORE_CORE REPULSION  =   9667.069875324
+ TOTAL ENERGY         =  -2911.115777825
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    87.59 kB
+| Host Allocations =    40
+| Peak Device Footprint =    10.19 GB
+| Device Allocations =    31
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =    13.449001000(  8.45%)
+| INITIAL GUESS TIME  =     1.488635000(  0.94%)
+| DFT GRID OPERATIONS =     0.001606000(  0.00%)
+| TOTAL SCF TIME      =   142.813027000( 89.73%)
+|       TOTAL OP TIME      =   141.407062000( 88.85%)
+|             TOTAL 1e TIME      =     0.044175000(  0.03%)
+|             TOTAL 2e TIME      =   127.525961000( 80.12%)
+|             TOTAL EXC TIME     =    13.718322000(  8.62%)
+|       TOTAL DII TIME      =     1.382605000(  0.87%)
+|             TOTAL DIAG TIME    =     0.565842000(  0.36%)
+| TOTAL TIME          =   159.159172000
+------------------------------------
+| Job cpu time:  0 days  0 hours  2 minutes 39.2 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Thu Aug 20 08:38:49 2026
+
+======== FILE: ./taxol/taxol-1/taxol_6-31+G**.out ========
+| 18  -2927.342660268  0.285524E-04      26.523     8        0.30     26.22      0.09    0.8080E-03  0.1162E-04  0.1045E-02
+| 19  -2927.342666718  0.644975E-05      26.523     9        0.30     26.22      0.09    0.2619E-03  0.4351E-05  0.4913E-03
+| 20  -2927.342667416  0.697617E-06      26.532    10        0.30     26.23      0.09    0.1293E-03  0.1594E-05  0.1574E-03
+| 21  -2927.342667506  0.908840E-07      26.545     1        0.30     26.24      0.09    0.5845E-04  0.5953E-06  0.5113E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  21 CYCLES
+| MAX ERROR = 0.584517E-04   RMS CHANGE = 0.595316E-06   MAX CHANGE = 0.511338E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =   223.0010553405
+ BETA ELECTRON DENSITY     =   223.0010553405
+ ELECTRONIC ENERGY    = -12594.412542830
+ CORE_CORE REPULSION  =   9667.069875324
+ TOTAL ENERGY         =  -2927.342667506
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    95.01 kB
+| Host Allocations =    40
+| Peak Device Footprint =    40.65 GB
+| Device Allocations =    31
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =    55.695471000(  9.02%)
+| INITIAL GUESS TIME  =     2.808324000(  0.45%)
+| DFT GRID OPERATIONS =     0.001577000(  0.00%)
+| TOTAL SCF TIME      =   557.528608000( 90.25%)
+|       TOTAL OP TIME      =   551.057791000( 89.20%)
+|             TOTAL 1e TIME      =     0.307822000(  0.05%)
+|             TOTAL 2e TIME      =   492.342167000( 79.70%)
+|             TOTAL EXC TIME     =    57.791704000(  9.35%)
+|       TOTAL DII TIME      =     6.340742000(  1.03%)
+|             TOTAL DIAG TIME    =     1.886544000(  0.31%)
+| TOTAL TIME          =   617.781050000
+------------------------------------
+| Job cpu time:  0 days  0 hours 10 minutes 17.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Thu Aug 20 09:01:17 2026
+
+======== FILE: ./taxol/taxol-1/taxol_6-31G.out ========
+| 17  -2926.286497168  0.282686E-04       6.751     7        0.06      6.69      0.03    0.5970E-03  0.9753E-05  0.6717E-03
+| 18  -2926.286499785  0.261649E-05       6.744     8        0.06      6.68      0.03    0.2208E-03  0.3740E-05  0.1876E-03
+| 19  -2926.286500342  0.557164E-06       6.758     9        0.06      6.70      0.03    0.8219E-04  0.1461E-05  0.8107E-04
+| 20  -2926.286500423  0.813980E-07       6.747    10        0.06      6.69      0.03    0.4417E-04  0.4727E-06  0.3046E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  20 CYCLES
+| MAX ERROR = 0.441674E-04   RMS CHANGE = 0.472678E-06   MAX CHANGE = 0.304638E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =   223.0009188895
+ BETA ELECTRON DENSITY     =   223.0009188895
+ ELECTRONIC ENERGY    = -12593.356375747
+ CORE_CORE REPULSION  =   9667.069875324
+ TOTAL ENERGY         =  -2926.286500423
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    87.59 kB
+| Host Allocations =    40
+| Peak Device Footprint =    11.24 GB
+| Device Allocations =    31
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =    15.082938000(  9.88%)
+| INITIAL GUESS TIME  =     1.624973000(  1.06%)
+| DFT GRID OPERATIONS =     0.001547000(  0.00%)
+| TOTAL SCF TIME      =   134.603817000( 88.17%)
+|       TOTAL OP TIME      =   133.379774000( 87.37%)
+|             TOTAL 1e TIME      =     0.047543000(  0.03%)
+|             TOTAL 2e TIME      =   116.285713000( 76.17%)
+|             TOTAL EXC TIME     =    16.939821000( 11.10%)
+|       TOTAL DII TIME      =     1.203747000(  0.79%)
+|             TOTAL DIAG TIME    =     0.507334000(  0.33%)
+| TOTAL TIME          =   152.664385000
+------------------------------------
+| Job cpu time:  0 days  0 hours  2 minutes 32.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Thu Aug 20 08:41:21 2026
+
+======== FILE: ./taxol/taxol-1/taxol_def2-SVP.out ========
+| 17  -2925.142652598  0.366704E-04      20.070     7        0.21     19.85      0.07    0.1172E-02  0.9299E-05  0.1121E-02
+| 18  -2925.142661908  0.931027E-05      20.064     8        0.21     19.85      0.07    0.5821E-03  0.4367E-05  0.4403E-03
+| 19  -2925.142663879  0.197106E-05      20.063     9        0.21     19.85      0.07    0.1791E-03  0.2059E-05  0.2341E-03
+| 20  -2925.142664281  0.401526E-06      20.064    10        0.21     19.84      0.07    0.5864E-04  0.5929E-06  0.6802E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  20 CYCLES
+| MAX ERROR = 0.586449E-04   RMS CHANGE = 0.592917E-06   MAX CHANGE = 0.680178E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =   223.0008063608
+ BETA ELECTRON DENSITY     =   223.0008063608
+ ELECTRONIC ENERGY    = -12592.212539604
+ CORE_CORE REPULSION  =   9667.069875324
+ TOTAL ENERGY         =  -2925.142664281
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    91.11 kB
+| Host Allocations =    40
+| Peak Device Footprint =    19.18 GB
+| Device Allocations =    31
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =    30.661906000(  7.03%)
+| INITIAL GUESS TIME  =     2.079192000(  0.48%)
+| DFT GRID OPERATIONS =     0.001585000(  0.00%)
+| TOTAL SCF TIME      =   401.743821000( 92.11%)
+|       TOTAL OP TIME      =   397.254620000( 91.08%)
+|             TOTAL 1e TIME      =     0.140309000(  0.03%)
+|             TOTAL 2e TIME      =   367.676866000( 84.30%)
+|             TOTAL EXC TIME     =    29.088276000(  6.67%)
+|       TOTAL DII TIME      =     4.380667000(  1.00%)
+|             TOTAL DIAG TIME    =     1.358595000(  0.31%)
+| TOTAL TIME          =   436.140010000
+------------------------------------
+| Job cpu time:  0 days  0 hours  7 minutes 16.1 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Thu Aug 20 09:18:18 2026
+
+======== FILE: ./taxol/taxol-1/taxol_def2-SV(P).out ========
+| 35  -2925.021062342  0.541702E-04      14.563     5        0.14     14.42      0.05    0.8523E-03  0.8460E-05  0.7030E-03
+| 36  -2925.021067804  0.546216E-05      14.565     6        0.14     14.42      0.05    0.4494E-03  0.3768E-05  0.3657E-03
+| 37  -2925.021069012  0.120866E-05      14.564     7        0.14     14.42      0.05    0.1305E-03  0.1829E-05  0.1170E-03
+| 38  -2925.021069249  0.236387E-06      14.566     8        0.14     14.42      0.05    0.8534E-04  0.8295E-06  0.7247E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  38 CYCLES
+| MAX ERROR = 0.853364E-04   RMS CHANGE = 0.829513E-06   MAX CHANGE = 0.724680E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =   223.0008207730
+ BETA ELECTRON DENSITY     =   223.0008207730
+ ELECTRONIC ENERGY    = -12592.090944572
+ CORE_CORE REPULSION  =   9667.069875324
+ TOTAL ENERGY         =  -2925.021069249
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    89.54 kB
+| Host Allocations =    40
+| Peak Device Footprint =    16.10 GB
+| Device Allocations =    31
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =    26.225876000(  4.49%)
+| INITIAL GUESS TIME  =     2.051326000(  0.35%)
+| DFT GRID OPERATIONS =     0.001587000(  0.00%)
+| TOTAL SCF TIME      =   554.310996000( 94.90%)
+|       TOTAL OP TIME      =   548.203554000( 93.85%)
+|             TOTAL 1e TIME      =     0.113300000(  0.02%)
+|             TOTAL 2e TIME      =   500.200957000( 85.63%)
+|             TOTAL EXC TIME     =    47.478107000(  8.13%)
+|       TOTAL DII TIME      =     6.006815000(  1.03%)
+|             TOTAL DIAG TIME    =     1.846073000(  0.32%)
+| TOTAL TIME          =   584.119252000
+------------------------------------
+| Job cpu time:  0 days  0 hours  9 minutes 44.1 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Thu Aug 20 09:11:02 2026
+
+======== FILE: ./taxol/taxol-1/taxol_6-31G*.out ========
+| 12  -2927.147946912  0.160640E-03      14.491     2        0.14     14.35      0.05    0.1834E-02  0.1319E-04  0.1722E-02
+| 13  -2927.147964960  0.180473E-04      14.494     3        0.14     14.35      0.05    0.8770E-03  0.5453E-05  0.6544E-03
+| 14  -2927.147969252  0.429176E-05      14.493     4        0.14     14.35      0.05    0.2885E-03  0.2143E-05  0.2745E-03
+| 15  -2927.147969700  0.448752E-06      14.493     5        0.14     14.35      0.05    0.9170E-04  0.8822E-06  0.8010E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  15 CYCLES
+| MAX ERROR = 0.916995E-04   RMS CHANGE = 0.882167E-06   MAX CHANGE = 0.801041E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =   223.0009306066
+ BETA ELECTRON DENSITY     =   223.0009306066
+ ELECTRONIC ENERGY    = -12594.217845024
+ CORE_CORE REPULSION  =   9667.069875324
+ TOTAL ENERGY         =  -2927.147969700
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    89.54 kB
+| Host Allocations =    40
+| Peak Device Footprint =    15.96 GB
+| Device Allocations =    31
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =    25.061377000( 10.20%)
+| INITIAL GUESS TIME  =     1.696704000(  0.69%)
+| DFT GRID OPERATIONS =     0.001555000(  0.00%)
+| TOTAL SCF TIME      =   217.565965000( 88.51%)
+|       TOTAL OP TIME      =   215.418426000( 87.63%)
+|             TOTAL 1e TIME      =     0.112162000(  0.05%)
+|             TOTAL 2e TIME      =   197.178372000( 80.21%)
+|             TOTAL EXC TIME     =    17.916291000(  7.29%)
+|       TOTAL DII TIME      =     2.109537000(  0.86%)
+|             TOTAL DIAG TIME    =     0.726607000(  0.30%)
+| TOTAL TIME          =   245.815818000
+------------------------------------
+| Job cpu time:  0 days  0 hours  4 minutes  5.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Thu Aug 20 08:45:27 2026
+
+======== FILE: ./taxol/taxol-1/taxol_6-31G**.out ========
+| 12  -2927.240400771  0.180626E-03      19.921     2        0.21     19.71      0.07    0.2095E-02  0.1251E-04  0.2008E-02
+| 13  -2927.240419622  0.188509E-04      19.921     3        0.21     19.71      0.07    0.1068E-02  0.4792E-05  0.8004E-03
+| 14  -2927.240424682  0.506005E-05      19.919     4        0.21     19.71      0.07    0.2815E-03  0.1838E-05  0.2544E-03
+| 15  -2927.240425210  0.527391E-06      19.922     5        0.21     19.71      0.07    0.7890E-04  0.6477E-06  0.7224E-04
+| ------------------------------------------------------------------------------------------------------------------------
+| REACH CONVERGENCE AFTER  15 CYCLES
+| MAX ERROR = 0.788973E-04   RMS CHANGE = 0.647730E-06   MAX CHANGE = 0.722423E-04
+| -----------------------------------------------
+ ALPHA ELECTRON DENSITY    =   223.0009213403
+ BETA ELECTRON DENSITY     =   223.0009213403
+ ELECTRONIC ENERGY    = -12594.310300533
+ CORE_CORE REPULSION  =   9667.069875324
+ TOTAL ENERGY         =  -2927.240425210
+
+ @ End Energy calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    91.11 kB
+| Host Allocations =    40
+| Peak Device Footprint =    18.69 GB
+| Device Allocations =    31
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =    28.979349000(  8.73%)
+| INITIAL GUESS TIME  =     2.057979000(  0.62%)
+| DFT GRID OPERATIONS =     0.001545000(  0.00%)
+| TOTAL SCF TIME      =   299.172985000( 90.16%)
+|       TOTAL OP TIME      =   295.925908000( 89.18%)
+|             TOTAL 1e TIME      =     0.135363000(  0.04%)
+|             TOTAL 2e TIME      =   275.372829000( 82.98%)
+|             TOTAL EXC TIME     =    20.145540000(  6.07%)
+|       TOTAL DII TIME      =     3.165549000(  0.95%)
+|             TOTAL DIAG TIME    =     1.019564000(  0.31%)
+| TOTAL TIME          =   331.838638000
+------------------------------------
+| Job cpu time:  0 days  0 hours  5 minutes 31.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Thu Aug 20 08:50:59 2026

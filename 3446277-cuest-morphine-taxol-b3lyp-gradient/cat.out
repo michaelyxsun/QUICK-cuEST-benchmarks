@@ -1,0 +1,1560 @@
+
+======== FILE: ./morphine-3/morphine_def2-SV(P).out ========
+   38Y     3.5638002721    -0.0013333594
+   38Z    -0.9645000737    -0.0009808293
+   39X    -3.1557002410    -0.0002590526
+   39Y    -2.6446002020    -0.0016722139
+   39Z     0.6672000509     0.0034546793
+   40X    -3.8483002939     0.0004384984
+   40Y     1.0686000816    -0.0011748820
+   40Z     1.1031000842     0.0017677223
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Host Allocations =    43
+| Peak Device Footprint =    11.89 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.381217000(  6.73%)
+| INITIAL GUESS TIME  =     2.608376000( 46.03%)
+| DFT GRID OPERATIONS =     0.001173000(  0.02%)
+| TOTAL SCF TIME      =     0.712065000( 12.57%)
+|       TOTAL OP TIME      =     0.502295000(  8.86%)
+|             TOTAL 1e TIME      =     0.009722000(  0.17%)
+|             TOTAL 2e TIME      =     0.147301000(  2.60%)
+|             TOTAL EXC TIME     =     0.311516000(  5.50%)
+|       TOTAL DII TIME      =     0.205596000(  3.63%)
+|             TOTAL DIAG TIME    =     0.061087000(  1.08%)
+| TOTAL GRADIENT TIME      =     0.878557000( 15.50%)
+|       TOTAL 1e GRADIENT TIME      =     0.535168000( 9.54%)
+|       TOTAL 2e GRADIENT TIME      =     0.236309000( 4.17%)
+|       TOTAL EXC GRADIENT TIME     =     0.101002000(  1.78%)
+| TOTAL TIME          =     5.666413000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:52:05 2026
+
+======== FILE: ./morphine-3/morphine_6-31G*.out ========
+   38Y     3.5638002721     0.0024784767
+   38Z    -0.9645000737    -0.0022527877
+   39X    -3.1557002410    -0.0014605180
+   39Y    -2.6446002020    -0.0015440501
+   39Z     0.6672000509     0.0031434667
+   40X    -3.8483002939    -0.0006984958
+   40Y     1.0686000816    -0.0012746548
+   40Z     1.1031000842     0.0023282382
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Host Allocations =    43
+| Peak Device Footprint =    11.87 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.382960000(  6.89%)
+| INITIAL GUESS TIME  =     2.612700000( 47.03%)
+| DFT GRID OPERATIONS =     0.001134000(  0.02%)
+| TOTAL SCF TIME      =     0.644060000( 11.59%)
+|       TOTAL OP TIME      =     0.463169000(  8.34%)
+|             TOTAL 1e TIME      =     0.009689000(  0.17%)
+|             TOTAL 2e TIME      =     0.137292000(  2.47%)
+|             TOTAL EXC TIME     =     0.287068000(  5.17%)
+|       TOTAL DII TIME      =     0.176969000(  3.19%)
+|             TOTAL DIAG TIME    =     0.056542000(  1.02%)
+| TOTAL GRADIENT TIME      =     0.934425000( 16.82%)
+|       TOTAL 1e GRADIENT TIME      =     0.581204000(10.57%)
+|       TOTAL 2e GRADIENT TIME      =     0.246754000( 4.44%)
+|       TOTAL EXC GRADIENT TIME     =     0.100052000(  1.80%)
+| TOTAL TIME          =     5.555856000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:51:47 2026
+
+======== FILE: ./morphine-3/morphine_def2-TZVPP.out ========
+   38Y     3.5638002721    -0.0984850077
+   38Z    -0.9645000737     0.0476396358
+   39X    -3.1557002410     0.0242909084
+   39Y    -2.6446002020    -0.0091255729
+   39Z     0.6672000509     0.0148867019
+   40X    -3.8483002939     0.0508772249
+   40Y     1.0686000816     0.0424789206
+   40Z     1.1031000842    -0.0376045061
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    37.34 kB
+| Host Allocations =    43
+| Peak Device Footprint =    22.63 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.690478000(  3.03%)
+| INITIAL GUESS TIME  =     8.939563000( 39.18%)
+| DFT GRID OPERATIONS =     0.001155000(  0.01%)
+| TOTAL SCF TIME      =     2.801807000( 12.28%)
+|       TOTAL OP TIME      =     1.760608000(  7.72%)
+|             TOTAL 1e TIME      =     0.090534000(  0.40%)
+|             TOTAL 2e TIME      =     0.735756000(  3.22%)
+|             TOTAL EXC TIME     =     0.666068000(  2.92%)
+|       TOTAL DII TIME      =     0.996793000(  4.37%)
+|             TOTAL DIAG TIME    =     0.183529000(  0.80%)
+| TOTAL GRADIENT TIME      =     9.426309000( 41.32%)
+|       TOTAL 1e GRADIENT TIME      =     4.359985000(34.94%)
+|       TOTAL 2e GRADIENT TIME      =     1.311291000( 5.75%)
+|       TOTAL EXC GRADIENT TIME     =     0.138052000(  0.61%)
+| TOTAL TIME          =    22.815651000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 22.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:52:53 2026
+
+======== FILE: ./morphine-3/morphine_6-31G.out ========
+   38Y     3.5638002721     0.0036216113
+   38Z    -0.9645000737    -0.0028504327
+   39X    -3.1557002410     0.0072448046
+   39Y    -2.6446002020    -0.0013464907
+   39Z     0.6672000509    -0.0023065316
+   40X    -3.8483002939     0.0076344707
+   40Y     1.0686000816     0.0024520378
+   40Z     1.1031000842    -0.0027494272
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Host Allocations =    43
+| Peak Device Footprint =     9.34 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.358680000(  7.53%)
+| INITIAL GUESS TIME  =     2.556529000( 53.64%)
+| DFT GRID OPERATIONS =     0.001224000(  0.03%)
+| TOTAL SCF TIME      =     0.432470000(  9.07%)
+|       TOTAL OP TIME      =     0.325081000(  6.82%)
+|             TOTAL 1e TIME      =     0.002998000(  0.06%)
+|             TOTAL 2e TIME      =     0.078492000(  1.65%)
+|             TOTAL EXC TIME     =     0.232216000(  4.87%)
+|       TOTAL DII TIME      =     0.105752000(  2.22%)
+|             TOTAL DIAG TIME    =     0.041908000(  0.88%)
+| TOTAL GRADIENT TIME      =     0.503837000( 10.57%)
+|       TOTAL 1e GRADIENT TIME      =     0.289467000( 6.14%)
+|       TOTAL 2e GRADIENT TIME      =     0.125218000( 2.63%)
+|       TOTAL EXC GRADIENT TIME     =     0.085714000(  1.80%)
+| TOTAL TIME          =     4.765968000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  4.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:51:41 2026
+
+======== FILE: ./morphine-3/morphine_6-31+G**.out ========
+   38Y     3.5638002721    -0.0318579315
+   38Z    -0.9645000737     0.0080102217
+   39X    -3.1557002410     0.0028756060
+   39Y    -2.6446002020    -0.0040204721
+   39Z     0.6672000509    -0.0082229731
+   40X    -3.8483002939    -0.0031172762
+   40Y     1.0686000816    -0.0032258084
+   40Z     1.1031000842     0.0051228771
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    33.50 kB
+| Host Allocations =    43
+| Peak Device Footprint =    13.51 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.426381000(  6.49%)
+| INITIAL GUESS TIME  =     2.645813000( 40.26%)
+| DFT GRID OPERATIONS =     0.001174000(  0.02%)
+| TOTAL SCF TIME      =     1.079691000( 16.43%)
+|       TOTAL OP TIME      =     0.723927000( 11.02%)
+|             TOTAL 1e TIME      =     0.014527000(  0.22%)
+|             TOTAL 2e TIME      =     0.258034000(  3.93%)
+|             TOTAL EXC TIME     =     0.388372000(  5.91%)
+|       TOTAL DII TIME      =     0.345327000(  5.25%)
+|             TOTAL DIAG TIME    =     0.088384000(  1.34%)
+| TOTAL GRADIENT TIME      =     1.451081000( 22.08%)
+|       TOTAL 1e GRADIENT TIME      =     0.979060000(15.04%)
+|       TOTAL 2e GRADIENT TIME      =     0.345607000( 5.26%)
+|       TOTAL EXC GRADIENT TIME     =     0.115993000(  1.77%)
+| TOTAL TIME          =     6.571767000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  6.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:52:00 2026
+
+======== FILE: ./morphine-3/morphine_def2-TZVPD.out ========
+   38Y     3.5638002721    -0.1513994446
+   38Z    -0.9645000737     0.0898032823
+   39X    -3.1557002410     0.0239017998
+   39Y    -2.6446002020    -0.0052214174
+   39Z     0.6672000509    -0.0596797874
+   40X    -3.8483002939     0.1493263244
+   40Y     1.0686000816     0.0597282540
+   40Z     1.1031000842    -0.1023189292
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    38.18 kB
+| Host Allocations =    43
+| Peak Device Footprint =    26.49 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.756818000(  2.65%)
+| INITIAL GUESS TIME  =    11.906666000( 41.64%)
+| DFT GRID OPERATIONS =     0.001155000(  0.00%)
+| TOTAL SCF TIME      =     3.027963000( 10.59%)
+|       TOTAL OP TIME      =     1.951814000(  6.83%)
+|             TOTAL 1e TIME      =     0.093053000(  0.33%)
+|             TOTAL 2e TIME      =     0.834460000(  2.92%)
+|             TOTAL EXC TIME     =     0.736277000(  2.57%)
+|       TOTAL DII TIME      =     1.027700000(  3.59%)
+|             TOTAL DIAG TIME    =     0.183704000(  0.64%)
+| TOTAL GRADIENT TIME      =    11.914211000( 41.67%)
+|       TOTAL 1e GRADIENT TIME      =     5.482759000(35.40%)
+|       TOTAL 2e GRADIENT TIME      =     1.592293000( 5.57%)
+|       TOTAL EXC GRADIENT TIME     =     0.194725000(  0.68%)
+| TOTAL TIME          =    28.595233000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 28.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:53:22 2026
+
+======== FILE: ./morphine-3/morphine_3-21G.out ========
+   38Y     3.5638002721     0.0049474200
+   38Z    -0.9645000737    -0.0033476644
+   39X    -3.1557002410     0.0080298970
+   39Y    -2.6446002020     0.0003534513
+   39Z     0.6672000509    -0.0158924134
+   40X    -3.8483002939     0.0074621159
+   40Y     1.0686000816     0.0145320554
+   40Z     1.1031000842    -0.0097578288
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Host Allocations =    43
+| Peak Device Footprint =     9.29 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.357708000(  7.91%)
+| INITIAL GUESS TIME  =     2.515250000( 55.59%)
+| DFT GRID OPERATIONS =     0.001318000(  0.03%)
+| TOTAL SCF TIME      =     0.377499000(  8.34%)
+|       TOTAL OP TIME      =     0.282337000(  6.24%)
+|             TOTAL 1e TIME      =     0.002689000(  0.06%)
+|             TOTAL 2e TIME      =     0.068774000(  1.52%)
+|             TOTAL EXC TIME     =     0.200685000(  4.44%)
+|       TOTAL DII TIME      =     0.093676000(  2.07%)
+|             TOTAL DIAG TIME    =     0.037182000(  0.82%)
+| TOTAL GRADIENT TIME      =     0.349490000(  7.72%)
+|       TOTAL 1e GRADIENT TIME      =     0.169522000( 3.82%)
+|       TOTAL 2e GRADIENT TIME      =     0.094643000( 2.09%)
+|       TOTAL EXC GRADIENT TIME     =     0.082117000(  1.81%)
+| TOTAL TIME          =     4.524528000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  4.5 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:51:36 2026
+
+======== FILE: ./morphine-3/morphine_def2-SVP.out ========
+   38Y     3.5638002721    -0.0012409155
+   38Z    -0.9645000737    -0.0009944982
+   39X    -3.1557002410    -0.0022608094
+   39Y    -2.6446002020    -0.0020581381
+   39Z     0.6672000509     0.0065076869
+   40X    -3.8483002939    -0.0012481136
+   40Y     1.0686000816    -0.0038199158
+   40Z     1.1031000842     0.0039254279
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Host Allocations =    43
+| Peak Device Footprint =    12.27 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.392581000(  6.68%)
+| INITIAL GUESS TIME  =     2.650297000( 45.12%)
+| DFT GRID OPERATIONS =     0.001180000(  0.02%)
+| TOTAL SCF TIME      =     0.839392000( 14.29%)
+|       TOTAL OP TIME      =     0.560536000(  9.54%)
+|             TOTAL 1e TIME      =     0.011053000(  0.19%)
+|             TOTAL 2e TIME      =     0.175248000(  2.98%)
+|             TOTAL EXC TIME     =     0.329787000(  5.61%)
+|       TOTAL DII TIME      =     0.272366000(  4.64%)
+|             TOTAL DIAG TIME    =     0.071998000(  1.23%)
+| TOTAL GRADIENT TIME      =     0.984960000( 16.77%)
+|       TOTAL 1e GRADIENT TIME      =     0.628326000(10.83%)
+|       TOTAL 2e GRADIENT TIME      =     0.261216000( 4.45%)
+|       TOTAL EXC GRADIENT TIME     =     0.086882000(  1.48%)
+| TOTAL TIME          =     5.873911000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:52:11 2026
+
+======== FILE: ./morphine-3/morphine_6-31G**.out ========
+   38Y     3.5638002721     0.0027988650
+   38Z    -0.9645000737    -0.0023694272
+   39X    -3.1557002410    -0.0026510861
+   39Y    -2.6446002020    -0.0019931564
+   39Z     0.6672000509     0.0064233031
+   40X    -3.8483002939    -0.0013928678
+   40Y     1.0686000816    -0.0040740274
+   40Z     1.1031000842     0.0042249311
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Host Allocations =    43
+| Peak Device Footprint =    12.21 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.409587000(  6.92%)
+| INITIAL GUESS TIME  =     2.640807000( 44.60%)
+| DFT GRID OPERATIONS =     0.001209000(  0.02%)
+| TOTAL SCF TIME      =     0.766509000( 12.94%)
+|       TOTAL OP TIME      =     0.513864000(  8.68%)
+|             TOTAL 1e TIME      =     0.011372000(  0.19%)
+|             TOTAL 2e TIME      =     0.163707000(  2.76%)
+|             TOTAL EXC TIME     =     0.298314000(  5.04%)
+|       TOTAL DII TIME      =     0.247050000(  4.17%)
+|             TOTAL DIAG TIME    =     0.064635000(  1.09%)
+| TOTAL GRADIENT TIME      =     1.051601000( 17.76%)
+|       TOTAL 1e GRADIENT TIME      =     0.684009000(11.68%)
+|       TOTAL 2e GRADIENT TIME      =     0.271849000( 4.59%)
+|       TOTAL EXC GRADIENT TIME     =     0.087692000(  1.48%)
+| TOTAL TIME          =     5.921444000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:51:53 2026
+
+======== FILE: ./morphine-3/morphine_def2-TZVP.out ========
+   38Y     3.5638002721    -0.1059852444
+   38Z    -0.9645000737     0.0618456943
+   39X    -3.1557002410     0.0012340520
+   39Y    -2.6446002020    -0.0006682896
+   39Z     0.6672000509    -0.0550550116
+   40X    -3.8483002939     0.1301368230
+   40Y     1.0686000816     0.0920131409
+   40Z     1.1031000842    -0.0970876507
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    36.13 kB
+| Host Allocations =    43
+| Peak Device Footprint =    19.58 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.614262000(  3.36%)
+| INITIAL GUESS TIME  =     6.889206000( 37.70%)
+| DFT GRID OPERATIONS =     0.001216000(  0.01%)
+| TOTAL SCF TIME      =     2.202305000( 12.05%)
+|       TOTAL OP TIME      =     1.443669000(  7.90%)
+|             TOTAL 1e TIME      =     0.084011000(  0.46%)
+|             TOTAL 2e TIME      =     0.543619000(  2.97%)
+|             TOTAL EXC TIME     =     0.604263000(  3.31%)
+|       TOTAL DII TIME      =     0.724446000(  3.96%)
+|             TOTAL DIAG TIME    =     0.144608000(  0.79%)
+| TOTAL GRADIENT TIME      =     7.594540000( 41.56%)
+|       TOTAL 1e GRADIENT TIME      =     3.441264000(34.71%)
+|       TOTAL 2e GRADIENT TIME      =     1.109442000( 6.07%)
+|       TOTAL EXC GRADIENT TIME     =     0.137341000(  0.75%)
+| TOTAL TIME          =    18.275386000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 18.3 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:52:30 2026
+
+======== FILE: ./morphine-2/morphine_def2-SV(P).out ========
+   38Y     3.5638002721    -0.0013333594
+   38Z    -0.9645000737    -0.0009808293
+   39X    -3.1557002410    -0.0002590526
+   39Y    -2.6446002020    -0.0016722139
+   39Z     0.6672000509     0.0034546794
+   40X    -3.8483002939     0.0004384984
+   40Y     1.0686000816    -0.0011748821
+   40Z     1.1031000842     0.0017677223
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Host Allocations =    43
+| Peak Device Footprint =    11.89 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.382607000(  6.99%)
+| INITIAL GUESS TIME  =     2.588402000( 47.29%)
+| DFT GRID OPERATIONS =     0.001154000(  0.02%)
+| TOTAL SCF TIME      =     0.688263000( 12.57%)
+|       TOTAL OP TIME      =     0.498633000(  9.11%)
+|             TOTAL 1e TIME      =     0.009843000(  0.18%)
+|             TOTAL 2e TIME      =     0.147469000(  2.69%)
+|             TOTAL EXC TIME     =     0.311214000(  5.69%)
+|       TOTAL DII TIME      =     0.185708000(  3.39%)
+|             TOTAL DIAG TIME    =     0.060320000(  1.10%)
+| TOTAL GRADIENT TIME      =     0.880965000( 16.09%)
+|       TOTAL 1e GRADIENT TIME      =     0.542735000(10.01%)
+|       TOTAL 2e GRADIENT TIME      =     0.233281000( 4.26%)
+|       TOTAL EXC GRADIENT TIME     =     0.099497000(  1.82%)
+| TOTAL TIME          =     5.473732000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.5 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:50:15 2026
+
+======== FILE: ./morphine-2/morphine_6-31G*.out ========
+   38Y     3.5638002721     0.0024784766
+   38Z    -0.9645000737    -0.0022527877
+   39X    -3.1557002410    -0.0014605180
+   39Y    -2.6446002020    -0.0015440501
+   39Z     0.6672000509     0.0031434668
+   40X    -3.8483002939    -0.0006984957
+   40Y     1.0686000816    -0.0012746548
+   40Z     1.1031000842     0.0023282381
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Host Allocations =    43
+| Peak Device Footprint =    11.87 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.384583000(  6.87%)
+| INITIAL GUESS TIME  =     2.626237000( 46.91%)
+| DFT GRID OPERATIONS =     0.001229000(  0.02%)
+| TOTAL SCF TIME      =     0.677274000( 12.10%)
+|       TOTAL OP TIME      =     0.472602000(  8.44%)
+|             TOTAL 1e TIME      =     0.009737000(  0.17%)
+|             TOTAL 2e TIME      =     0.137892000(  2.46%)
+|             TOTAL EXC TIME     =     0.292766000(  5.23%)
+|       TOTAL DII TIME      =     0.200539000(  3.58%)
+|             TOTAL DIAG TIME    =     0.057831000(  1.03%)
+| TOTAL GRADIENT TIME      =     0.936726000( 16.73%)
+|       TOTAL 1e GRADIENT TIME      =     0.583864000(10.53%)
+|       TOTAL 2e GRADIENT TIME      =     0.246388000( 4.40%)
+|       TOTAL EXC GRADIENT TIME     =     0.100084000(  1.79%)
+| TOTAL TIME          =     5.598670000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:49:56 2026
+
+======== FILE: ./morphine-2/morphine_def2-TZVPP.out ========
+   38Y     3.5638002721    -0.0984850011
+   38Z    -0.9645000737     0.0476396413
+   39X    -3.1557002410     0.0242909031
+   39Y    -2.6446002020    -0.0091255736
+   39Z     0.6672000509     0.0148867076
+   40X    -3.8483002939     0.0508772220
+   40Y     1.0686000816     0.0424789162
+   40Z     1.1031000842    -0.0376045000
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    37.34 kB
+| Host Allocations =    43
+| Peak Device Footprint =    22.63 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.690387000(  3.02%)
+| INITIAL GUESS TIME  =     8.948990000( 39.17%)
+| DFT GRID OPERATIONS =     0.001239000(  0.01%)
+| TOTAL SCF TIME      =     2.794981000( 12.23%)
+|       TOTAL OP TIME      =     1.754045000(  7.68%)
+|             TOTAL 1e TIME      =     0.090605000(  0.40%)
+|             TOTAL 2e TIME      =     0.735273000(  3.22%)
+|             TOTAL EXC TIME     =     0.658097000(  2.88%)
+|       TOTAL DII TIME      =     0.995603000(  4.36%)
+|             TOTAL DIAG TIME    =     0.181742000(  0.80%)
+| TOTAL GRADIENT TIME      =     9.434596000( 41.29%)
+|       TOTAL 1e GRADIENT TIME      =     4.372341000(34.93%)
+|       TOTAL 2e GRADIENT TIME      =     1.310177000( 5.73%)
+|       TOTAL EXC GRADIENT TIME     =     0.138151000(  0.60%)
+| TOTAL TIME          =    22.847069000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 22.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:51:03 2026
+
+======== FILE: ./morphine-2/morphine_6-31G.out ========
+   38Y     3.5638002721     0.0036216113
+   38Z    -0.9645000737    -0.0028504327
+   39X    -3.1557002410     0.0072448046
+   39Y    -2.6446002020    -0.0013464907
+   39Z     0.6672000509    -0.0023065317
+   40X    -3.8483002939     0.0076344708
+   40Y     1.0686000816     0.0024520380
+   40Z     1.1031000842    -0.0027494272
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Host Allocations =    43
+| Peak Device Footprint =     9.34 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.359903000(  7.07%)
+| INITIAL GUESS TIME  =     2.743481000( 53.92%)
+| DFT GRID OPERATIONS =     0.001209000(  0.02%)
+| TOTAL SCF TIME      =     0.440655000(  8.66%)
+|       TOTAL OP TIME      =     0.327352000(  6.43%)
+|             TOTAL 1e TIME      =     0.002984000(  0.06%)
+|             TOTAL 2e TIME      =     0.079373000(  1.56%)
+|             TOTAL EXC TIME     =     0.232737000(  4.57%)
+|       TOTAL DII TIME      =     0.111638000(  2.19%)
+|             TOTAL DIAG TIME    =     0.042176000(  0.83%)
+| TOTAL GRADIENT TIME      =     0.504788000(  9.92%)
+|       TOTAL 1e GRADIENT TIME      =     0.288339000( 5.73%)
+|       TOTAL 2e GRADIENT TIME      =     0.126421000( 2.48%)
+|       TOTAL EXC GRADIENT TIME     =     0.086497000(  1.70%)
+| TOTAL TIME          =     5.087866000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.1 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:49:50 2026
+
+======== FILE: ./morphine-2/morphine_6-31+G**.out ========
+   38Y     3.5638002721    -0.0318579669
+   38Z    -0.9645000737     0.0080102410
+   39X    -3.1557002410     0.0028755825
+   39Y    -2.6446002020    -0.0040204821
+   39Z     0.6672000509    -0.0082229757
+   40X    -3.8483002939    -0.0031172860
+   40Y     1.0686000816    -0.0032258105
+   40Z     1.1031000842     0.0051228822
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    33.50 kB
+| Host Allocations =    43
+| Peak Device Footprint =    13.51 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.427857000(  5.65%)
+| INITIAL GUESS TIME  =     2.666129000( 35.18%)
+| DFT GRID OPERATIONS =     0.001310000(  0.02%)
+| TOTAL SCF TIME      =     1.924835000( 25.40%)
+|       TOTAL OP TIME      =     0.726812000(  9.59%)
+|             TOTAL 1e TIME      =     0.014597000(  0.19%)
+|             TOTAL 2e TIME      =     0.256259000(  3.38%)
+|             TOTAL EXC TIME     =     0.392447000(  5.18%)
+|       TOTAL DII TIME      =     1.187265000( 15.67%)
+|             TOTAL DIAG TIME    =     0.499535000(  6.59%)
+| TOTAL GRADIENT TIME      =     1.424744000( 18.80%)
+|       TOTAL 1e GRADIENT TIME      =     0.957496000(12.75%)
+|       TOTAL 2e GRADIENT TIME      =     0.344355000( 4.54%)
+|       TOTAL EXC GRADIENT TIME     =     0.113494000(  1.50%)
+| TOTAL TIME          =     7.578005000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  7.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:50:10 2026
+
+======== FILE: ./morphine-2/morphine_def2-TZVPD.out ========
+   38Y     3.5638002721    -0.1513994226
+   38Z    -0.9645000737     0.0898032038
+   39X    -3.1557002410     0.0239017719
+   39Y    -2.6446002020    -0.0052214545
+   39Z     0.6672000509    -0.0596797308
+   40X    -3.8483002939     0.1493262950
+   40Y     1.0686000816     0.0597283137
+   40Z     1.1031000842    -0.1023189468
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    38.18 kB
+| Host Allocations =    43
+| Peak Device Footprint =    26.49 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.757653000(  2.65%)
+| INITIAL GUESS TIME  =    11.930337000( 41.69%)
+| DFT GRID OPERATIONS =     0.001188000(  0.00%)
+| TOTAL SCF TIME      =     3.039547000( 10.62%)
+|       TOTAL OP TIME      =     1.956187000(  6.84%)
+|             TOTAL 1e TIME      =     0.093307000(  0.33%)
+|             TOTAL 2e TIME      =     0.836461000(  2.92%)
+|             TOTAL EXC TIME     =     0.736315000(  2.57%)
+|       TOTAL DII TIME      =     1.035594000(  3.62%)
+|             TOTAL DIAG TIME    =     0.183597000(  0.64%)
+| TOTAL GRADIENT TIME      =    11.925540000( 41.67%)
+|       TOTAL 1e GRADIENT TIME      =     5.490472000(35.38%)
+|       TOTAL 2e GRADIENT TIME      =     1.598827000( 5.59%)
+|       TOTAL EXC GRADIENT TIME     =     0.194229000(  0.68%)
+| TOTAL TIME          =    28.619511000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 28.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:51:31 2026
+
+======== FILE: ./morphine-2/morphine_3-21G.out ========
+   38Y     3.5638002721     0.0049474199
+   38Z    -0.9645000737    -0.0033476644
+   39X    -3.1557002410     0.0080298970
+   39Y    -2.6446002020     0.0003534513
+   39Z     0.6672000509    -0.0158924134
+   40X    -3.8483002939     0.0074621159
+   40Y     1.0686000816     0.0145320555
+   40Z     1.1031000842    -0.0097578288
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Host Allocations =    43
+| Peak Device Footprint =     9.29 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.384389000(  7.06%)
+| INITIAL GUESS TIME  =     2.645609000( 48.57%)
+| DFT GRID OPERATIONS =     0.001218000(  0.02%)
+| TOTAL SCF TIME      =     0.845236000( 15.52%)
+|       TOTAL OP TIME      =     0.674675000( 12.39%)
+|             TOTAL 1e TIME      =     0.004915000(  0.09%)
+|             TOTAL 2e TIME      =     0.070230000(  1.29%)
+|             TOTAL EXC TIME     =     0.581932000( 10.68%)
+|       TOTAL DII TIME      =     0.168924000(  3.10%)
+|             TOTAL DIAG TIME    =     0.082629000(  1.52%)
+| TOTAL GRADIENT TIME      =     0.350936000(  6.44%)
+|       TOTAL 1e GRADIENT TIME      =     0.170267000( 3.18%)
+|       TOTAL 2e GRADIENT TIME      =     0.094698000( 1.74%)
+|       TOTAL EXC GRADIENT TIME     =     0.082770000(  1.52%)
+| TOTAL TIME          =     5.447094000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.4 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:49:45 2026
+
+======== FILE: ./morphine-2/morphine_def2-SVP.out ========
+   38Y     3.5638002721    -0.0012409153
+   38Z    -0.9645000737    -0.0009944983
+   39X    -3.1557002410    -0.0022608094
+   39Y    -2.6446002020    -0.0020581381
+   39Z     0.6672000509     0.0065076869
+   40X    -3.8483002939    -0.0012481136
+   40Y     1.0686000816    -0.0038199158
+   40Z     1.1031000842     0.0039254279
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Host Allocations =    43
+| Peak Device Footprint =    12.27 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.391005000(  6.85%)
+| INITIAL GUESS TIME  =     2.605451000( 45.64%)
+| DFT GRID OPERATIONS =     0.001166000(  0.02%)
+| TOTAL SCF TIME      =     0.793139000( 13.89%)
+|       TOTAL OP TIME      =     0.547215000(  9.59%)
+|             TOTAL 1e TIME      =     0.010797000(  0.19%)
+|             TOTAL 2e TIME      =     0.173492000(  3.04%)
+|             TOTAL EXC TIME     =     0.324305000(  5.68%)
+|       TOTAL DII TIME      =     0.240311000(  4.21%)
+|             TOTAL DIAG TIME    =     0.068556000(  1.20%)
+| TOTAL GRADIENT TIME      =     0.982756000( 17.22%)
+|       TOTAL 1e GRADIENT TIME      =     0.628610000(11.15%)
+|       TOTAL 2e GRADIENT TIME      =     0.260261000( 4.56%)
+|       TOTAL EXC GRADIENT TIME     =     0.085450000(  1.50%)
+| TOTAL TIME          =     5.708644000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:50:21 2026
+
+======== FILE: ./morphine-2/morphine_6-31G**.out ========
+   38Y     3.5638002721     0.0027988650
+   38Z    -0.9645000737    -0.0023694272
+   39X    -3.1557002410    -0.0026510861
+   39Y    -2.6446002020    -0.0019931564
+   39Z     0.6672000509     0.0064233030
+   40X    -3.8483002939    -0.0013928678
+   40Y     1.0686000816    -0.0040740273
+   40Z     1.1031000842     0.0042249310
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Host Allocations =    43
+| Peak Device Footprint =    12.21 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.395114000(  6.80%)
+| INITIAL GUESS TIME  =     2.639412000( 45.45%)
+| DFT GRID OPERATIONS =     0.001398000(  0.02%)
+| TOTAL SCF TIME      =     0.743815000( 12.81%)
+|       TOTAL OP TIME      =     0.506677000(  8.73%)
+|             TOTAL 1e TIME      =     0.011497000(  0.20%)
+|             TOTAL 2e TIME      =     0.159823000(  2.75%)
+|             TOTAL EXC TIME     =     0.298402000(  5.14%)
+|       TOTAL DII TIME      =     0.231698000(  3.99%)
+|             TOTAL DIAG TIME    =     0.064293000(  1.11%)
+| TOTAL GRADIENT TIME      =     1.059023000( 18.24%)
+|       TOTAL 1e GRADIENT TIME      =     0.691590000(12.04%)
+|       TOTAL 2e GRADIENT TIME      =     0.271929000( 4.68%)
+|       TOTAL EXC GRADIENT TIME     =     0.087745000(  1.51%)
+| TOTAL TIME          =     5.806813000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.8 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:50:02 2026
+
+======== FILE: ./morphine-2/morphine_def2-TZVP.out ========
+   38Y     3.5638002721    -0.1059852437
+   38Z    -0.9645000737     0.0618456705
+   39X    -3.1557002410     0.0012340472
+   39Y    -2.6446002020    -0.0006682881
+   39Z     0.6672000509    -0.0550550106
+   40X    -3.8483002939     0.1301368303
+   40Y     1.0686000816     0.0920131377
+   40Z     1.1031000842    -0.0970876555
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    36.13 kB
+| Host Allocations =    43
+| Peak Device Footprint =    19.58 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.610373000(  3.36%)
+| INITIAL GUESS TIME  =     6.843713000( 37.67%)
+| DFT GRID OPERATIONS =     0.001167000(  0.01%)
+| TOTAL SCF TIME      =     2.166206000( 11.92%)
+|       TOTAL OP TIME      =     1.419844000(  7.81%)
+|             TOTAL 1e TIME      =     0.083268000(  0.46%)
+|             TOTAL 2e TIME      =     0.541550000(  2.98%)
+|             TOTAL EXC TIME     =     0.591800000(  3.26%)
+|       TOTAL DII TIME      =     0.716745000(  3.94%)
+|             TOTAL DIAG TIME    =     0.144183000(  0.79%)
+| TOTAL GRADIENT TIME      =     7.602533000( 41.84%)
+|       TOTAL 1e GRADIENT TIME      =     3.450234000(34.95%)
+|       TOTAL 2e GRADIENT TIME      =     1.111259000( 6.12%)
+|       TOTAL EXC GRADIENT TIME     =     0.137493000(  0.76%)
+| TOTAL TIME          =    18.169741000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 18.2 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:50:40 2026
+
+======== FILE: ./morphine-1/morphine_def2-SV(P).out ========
+   38Y     3.5638002721    -0.0013333594
+   38Z    -0.9645000737    -0.0009808293
+   39X    -3.1557002410    -0.0002590526
+   39Y    -2.6446002020    -0.0016722139
+   39Z     0.6672000509     0.0034546793
+   40X    -3.8483002939     0.0004384985
+   40Y     1.0686000816    -0.0011748820
+   40Z     1.1031000842     0.0017677222
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Host Allocations =    43
+| Peak Device Footprint =    11.89 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.382942000(  6.88%)
+| INITIAL GUESS TIME  =     2.634432000( 47.30%)
+| DFT GRID OPERATIONS =     0.001154000(  0.02%)
+| TOTAL SCF TIME      =     0.717382000( 12.88%)
+|       TOTAL OP TIME      =     0.505386000(  9.07%)
+|             TOTAL 1e TIME      =     0.010090000(  0.18%)
+|             TOTAL 2e TIME      =     0.151662000(  2.72%)
+|             TOTAL EXC TIME     =     0.309664000(  5.56%)
+|       TOTAL DII TIME      =     0.207913000(  3.73%)
+|             TOTAL DIAG TIME    =     0.061973000(  1.11%)
+| TOTAL GRADIENT TIME      =     0.883154000( 15.86%)
+|       TOTAL 1e GRADIENT TIME      =     0.542579000( 9.83%)
+|       TOTAL 2e GRADIENT TIME      =     0.234325000( 4.21%)
+|       TOTAL EXC GRADIENT TIME     =     0.100994000(  1.81%)
+| TOTAL TIME          =     5.569349000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.6 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:48:20 2026
+
+======== FILE: ./morphine-1/morphine_6-31G*.out ========
+   38Y     3.5638002721     0.0024784766
+   38Z    -0.9645000737    -0.0022527877
+   39X    -3.1557002410    -0.0014605180
+   39Y    -2.6446002020    -0.0015440501
+   39Z     0.6672000509     0.0031434668
+   40X    -3.8483002939    -0.0006984957
+   40Y     1.0686000816    -0.0012746547
+   40Z     1.1031000842     0.0023282381
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    31.55 kB
+| Host Allocations =    43
+| Peak Device Footprint =    11.87 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.385045000(  5.52%)
+| INITIAL GUESS TIME  =     2.741761000( 39.32%)
+| DFT GRID OPERATIONS =     0.001165000(  0.02%)
+| TOTAL SCF TIME      =     0.644357000(  9.24%)
+|       TOTAL OP TIME      =     0.462447000(  6.63%)
+|             TOTAL 1e TIME      =     0.009722000(  0.14%)
+|             TOTAL 2e TIME      =     0.138826000(  1.99%)
+|             TOTAL EXC TIME     =     0.285350000(  4.09%)
+|       TOTAL DII TIME      =     0.178012000(  2.55%)
+|             TOTAL DIAG TIME    =     0.056968000(  0.82%)
+| TOTAL GRADIENT TIME      =     0.939364000( 13.47%)
+|       TOTAL 1e GRADIENT TIME      =     0.587933000( 8.51%)
+|       TOTAL 2e GRADIENT TIME      =     0.246740000( 3.54%)
+|       TOTAL EXC GRADIENT TIME     =     0.098661000(  1.41%)
+| TOTAL TIME          =     6.973396000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  7.0 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:48:01 2026
+
+======== FILE: ./morphine-1/morphine_def2-TZVPP.out ========
+   38Y     3.5638002721    -0.0984850064
+   38Z    -0.9645000737     0.0476396373
+   39X    -3.1557002410     0.0242909161
+   39Y    -2.6446002020    -0.0091255722
+   39Z     0.6672000509     0.0148867034
+   40X    -3.8483002939     0.0508772115
+   40Y     1.0686000816     0.0424789198
+   40Z     1.1031000842    -0.0376044947
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    37.34 kB
+| Host Allocations =    43
+| Peak Device Footprint =    22.63 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.691724000(  2.92%)
+| INITIAL GUESS TIME  =     9.051736000( 38.20%)
+| DFT GRID OPERATIONS =     0.001211000(  0.01%)
+| TOTAL SCF TIME      =     2.880940000( 12.16%)
+|       TOTAL OP TIME      =     1.799637000(  7.60%)
+|             TOTAL 1e TIME      =     0.092643000(  0.39%)
+|             TOTAL 2e TIME      =     0.742727000(  3.13%)
+|             TOTAL EXC TIME     =     0.680617000(  2.87%)
+|       TOTAL DII TIME      =     1.031544000(  4.35%)
+|             TOTAL DIAG TIME    =     0.184297000(  0.78%)
+| TOTAL GRADIENT TIME      =     9.499672000( 40.09%)
+|       TOTAL 1e GRADIENT TIME      =     4.394825000(33.94%)
+|       TOTAL 2e GRADIENT TIME      =     1.316678000( 5.56%)
+|       TOTAL EXC GRADIENT TIME     =     0.138007000(  0.58%)
+| TOTAL TIME          =    23.693952000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 23.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:49:11 2026
+
+======== FILE: ./morphine-1/morphine_6-31G.out ========
+   38Y     3.5638002721     0.0036216113
+   38Z    -0.9645000737    -0.0028504326
+   39X    -3.1557002410     0.0072448046
+   39Y    -2.6446002020    -0.0013464907
+   39Z     0.6672000509    -0.0023065317
+   40X    -3.8483002939     0.0076344708
+   40Y     1.0686000816     0.0024520379
+   40Z     1.1031000842    -0.0027494271
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Host Allocations =    43
+| Peak Device Footprint =     9.34 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.374673000(  7.26%)
+| INITIAL GUESS TIME  =     2.594413000( 50.29%)
+| DFT GRID OPERATIONS =     0.001208000(  0.02%)
+| TOTAL SCF TIME      =     0.430449000(  8.34%)
+|       TOTAL OP TIME      =     0.322254000(  6.25%)
+|             TOTAL 1e TIME      =     0.003014000(  0.06%)
+|             TOTAL 2e TIME      =     0.078964000(  1.53%)
+|             TOTAL EXC TIME     =     0.229052000(  4.44%)
+|       TOTAL DII TIME      =     0.106601000(  2.07%)
+|             TOTAL DIAG TIME    =     0.042357000(  0.82%)
+| TOTAL GRADIENT TIME      =     0.504855000(  9.79%)
+|       TOTAL 1e GRADIENT TIME      =     0.289375000( 5.67%)
+|       TOTAL 2e GRADIENT TIME      =     0.125641000( 2.44%)
+|       TOTAL EXC GRADIENT TIME     =     0.086401000(  1.67%)
+| TOTAL TIME          =     5.158492000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.2 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:47:54 2026
+
+======== FILE: ./morphine-1/morphine_6-31+G**.out ========
+   38Y     3.5638002721    -0.0318580174
+   38Z    -0.9645000737     0.0080102560
+   39X    -3.1557002410     0.0028755965
+   39Y    -2.6446002020    -0.0040204812
+   39Z     0.6672000509    -0.0082229741
+   40X    -3.8483002939    -0.0031172846
+   40Y     1.0686000816    -0.0032258115
+   40Z     1.1031000842     0.0051228832
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    33.50 kB
+| Host Allocations =    43
+| Peak Device Footprint =    13.51 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.427267000(  5.99%)
+| INITIAL GUESS TIME  =     3.105866000( 43.55%)
+| DFT GRID OPERATIONS =     0.001272000(  0.02%)
+| TOTAL SCF TIME      =     1.098520000( 15.41%)
+|       TOTAL OP TIME      =     0.727224000( 10.20%)
+|             TOTAL 1e TIME      =     0.014622000(  0.21%)
+|             TOTAL 2e TIME      =     0.257002000(  3.60%)
+|             TOTAL EXC TIME     =     0.393880000(  5.52%)
+|       TOTAL DII TIME      =     0.360159000(  5.05%)
+|             TOTAL DIAG TIME    =     0.088183000(  1.24%)
+| TOTAL GRADIENT TIME      =     1.438356000( 20.17%)
+|       TOTAL 1e GRADIENT TIME      =     0.971714000(13.75%)
+|       TOTAL 2e GRADIENT TIME      =     0.343437000( 4.82%)
+|       TOTAL EXC GRADIENT TIME     =     0.113617000(  1.59%)
+| TOTAL TIME          =     7.130908000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  7.1 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:48:14 2026
+
+======== FILE: ./morphine-1/morphine_def2-TZVPD.out ========
+   38Y     3.5638002721    -0.1513994742
+   38Z    -0.9645000737     0.0898032016
+   39X    -3.1557002410     0.0239018145
+   39Y    -2.6446002020    -0.0052214376
+   39Z     0.6672000509    -0.0596797985
+   40X    -3.8483002939     0.1493262888
+   40Y     1.0686000816     0.0597282861
+   40Z     1.1031000842    -0.1023189138
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    38.18 kB
+| Host Allocations =    43
+| Peak Device Footprint =    26.49 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.750065000(  2.61%)
+| INITIAL GUESS TIME  =    11.983582000( 41.76%)
+| DFT GRID OPERATIONS =     0.001142000(  0.00%)
+| TOTAL SCF TIME      =     3.060337000( 10.66%)
+|       TOTAL OP TIME      =     1.967931000(  6.86%)
+|             TOTAL 1e TIME      =     0.093393000(  0.33%)
+|             TOTAL 2e TIME      =     0.836970000(  2.92%)
+|             TOTAL EXC TIME     =     0.743304000(  2.59%)
+|       TOTAL DII TIME      =     1.041096000(  3.63%)
+|             TOTAL DIAG TIME    =     0.184399000(  0.64%)
+| TOTAL GRADIENT TIME      =    11.934431000( 41.59%)
+|       TOTAL 1e GRADIENT TIME      =     5.502748000(35.33%)
+|       TOTAL 2e GRADIENT TIME      =     1.593845000( 5.55%)
+|       TOTAL EXC GRADIENT TIME     =     0.194549000(  0.68%)
+| TOTAL TIME          =    28.698617000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 28.7 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:49:39 2026
+
+======== FILE: ./morphine-1/morphine_3-21G.out ========
+   38Y     3.5638002721     0.0049474199
+   38Z    -0.9645000737    -0.0033476644
+   39X    -3.1557002410     0.0080298970
+   39Y    -2.6446002020     0.0003534513
+   39Z     0.6672000509    -0.0158924134
+   40X    -3.8483002939     0.0074621159
+   40Y     1.0686000816     0.0145320554
+   40Z     1.1031000842    -0.0097578288
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    30.88 kB
+| Host Allocations =    43
+| Peak Device Footprint =     9.29 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.849441000( 10.09%)
+| INITIAL GUESS TIME  =     2.750975000( 32.68%)
+| DFT GRID OPERATIONS =     0.001779000(  0.02%)
+| TOTAL SCF TIME      =     0.527634000(  6.27%)
+|       TOTAL OP TIME      =     0.431428000(  5.12%)
+|             TOTAL 1e TIME      =     0.018667000(  0.22%)
+|             TOTAL 2e TIME      =     0.163957000(  1.95%)
+|             TOTAL EXC TIME     =     0.222471000(  2.64%)
+|       TOTAL DII TIME      =     0.094737000(  1.13%)
+|             TOTAL DIAG TIME    =     0.037031000(  0.44%)
+| TOTAL GRADIENT TIME      =     0.382540000(  4.54%)
+|       TOTAL 1e GRADIENT TIME      =     0.169791000( 2.05%)
+|       TOTAL 2e GRADIENT TIME      =     0.102082000( 1.21%)
+|       TOTAL EXC GRADIENT TIME     =     0.107596000(  1.28%)
+| TOTAL TIME          =     8.418369000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  8.4 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:47:47 2026
+
+======== FILE: ./morphine-1/morphine_def2-SVP.out ========
+   38Y     3.5638002721    -0.0012409154
+   38Z    -0.9645000737    -0.0009944982
+   39X    -3.1557002410    -0.0022608094
+   39Y    -2.6446002020    -0.0020581381
+   39Z     0.6672000509     0.0065076869
+   40X    -3.8483002939    -0.0012481136
+   40Y     1.0686000816    -0.0038199158
+   40Z     1.1031000842     0.0039254279
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Host Allocations =    43
+| Peak Device Footprint =    12.27 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.409025000(  6.60%)
+| INITIAL GUESS TIME  =     2.628630000( 42.42%)
+| DFT GRID OPERATIONS =     0.001193000(  0.02%)
+| TOTAL SCF TIME      =     0.801872000( 12.94%)
+|       TOTAL OP TIME      =     0.552855000(  8.92%)
+|             TOTAL 1e TIME      =     0.010526000(  0.17%)
+|             TOTAL 2e TIME      =     0.174915000(  2.82%)
+|             TOTAL EXC TIME     =     0.329573000(  5.32%)
+|       TOTAL DII TIME      =     0.243458000(  3.93%)
+|             TOTAL DIAG TIME    =     0.069112000(  1.12%)
+| TOTAL GRADIENT TIME      =     0.987639000( 15.94%)
+|       TOTAL 1e GRADIENT TIME      =     0.628651000(10.27%)
+|       TOTAL 2e GRADIENT TIME      =     0.261789000( 4.22%)
+|       TOTAL EXC GRADIENT TIME     =     0.088473000(  1.43%)
+| TOTAL TIME          =     6.196956000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  6.2 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:48:27 2026
+
+======== FILE: ./morphine-1/morphine_6-31G**.out ========
+   38Y     3.5638002721     0.0027988650
+   38Z    -0.9645000737    -0.0023694272
+   39X    -3.1557002410    -0.0026510861
+   39Y    -2.6446002020    -0.0019931563
+   39Z     0.6672000509     0.0064233030
+   40X    -3.8483002939    -0.0013928678
+   40Y     1.0686000816    -0.0040740274
+   40Z     1.1031000842     0.0042249310
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    32.16 kB
+| Host Allocations =    43
+| Peak Device Footprint =    12.21 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.396550000(  6.77%)
+| INITIAL GUESS TIME  =     2.665944000( 45.49%)
+| DFT GRID OPERATIONS =     0.001126000(  0.02%)
+| TOTAL SCF TIME      =     0.759923000( 12.97%)
+|       TOTAL OP TIME      =     0.513419000(  8.76%)
+|             TOTAL 1e TIME      =     0.011360000(  0.19%)
+|             TOTAL 2e TIME      =     0.160876000(  2.75%)
+|             TOTAL EXC TIME     =     0.302046000(  5.15%)
+|       TOTAL DII TIME      =     0.240931000(  4.11%)
+|             TOTAL DIAG TIME    =     0.065905000(  1.12%)
+| TOTAL GRADIENT TIME      =     1.039284000( 17.73%)
+|       TOTAL 1e GRADIENT TIME      =     0.669679000(11.55%)
+|       TOTAL 2e GRADIENT TIME      =     0.273475000( 4.67%)
+|       TOTAL EXC GRADIENT TIME     =     0.088321000(  1.51%)
+| TOTAL TIME          =     5.860594000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes  5.9 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:48:07 2026
+
+======== FILE: ./morphine-1/morphine_def2-TZVP.out ========
+   38Y     3.5638002721    -0.1059852350
+   38Z    -0.9645000737     0.0618456650
+   39X    -3.1557002410     0.0012340464
+   39Y    -2.6446002020    -0.0006682877
+   39Z     0.6672000509    -0.0550550074
+   40X    -3.8483002939     0.1301368256
+   40Y     1.0686000816     0.0920131486
+   40Z     1.1031000842    -0.0970876552
+----------------------------------------
+
+ @ End Gradient Calculation
+
+  Skipping one-electron property calculation.
+
+ @ Output cuEST Memory Footprint
+
+------------- cuEST MEMORY USAGE ---------------
+| Peak Host Footprint =    36.13 kB
+| Host Allocations =    43
+| Peak Device Footprint =    19.58 GB
+| Device Allocations =    36
+------------------------------------------------
+
+ @ Finish Output cuEST Memory Footprint
+
+
+ @ Output Timing Information
+
+------------- TIMING ---------------
+| CUEST INITIALIZATION TIME =     0.610680000(  3.19%)
+| INITIAL GUESS TIME  =     7.002357000( 36.60%)
+| DFT GRID OPERATIONS =     0.001143000(  0.01%)
+| TOTAL SCF TIME      =     2.200238000( 11.50%)
+|       TOTAL OP TIME      =     1.439389000(  7.52%)
+|             TOTAL 1e TIME      =     0.083717000(  0.44%)
+|             TOTAL 2e TIME      =     0.542419000(  2.83%)
+|             TOTAL EXC TIME     =     0.602568000(  3.15%)
+|       TOTAL DII TIME      =     0.729466000(  3.81%)
+|             TOTAL DIAG TIME    =     0.145303000(  0.76%)
+| TOTAL GRADIENT TIME      =     7.633469000( 39.90%)
+|       TOTAL 1e GRADIENT TIME      =     3.468876000(33.33%)
+|       TOTAL 2e GRADIENT TIME      =     1.117723000( 5.84%)
+|       TOTAL EXC GRADIENT TIME     =     0.135594000(  0.71%)
+| TOTAL TIME          =    19.133274000
+------------------------------------
+| Job cpu time:  0 days  0 hours  0 minutes 19.1 seconds.
+
+ @ Finish Output Timing Information
+
+| Normal Termination. Task Finished on: Fri Aug 28 18:48:47 2026

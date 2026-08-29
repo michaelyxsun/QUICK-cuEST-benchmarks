@@ -1,0 +1,21 @@
+cuEST Auxiliary (Density Fit) Basis: Persistent workspace requires 0.00 GB of memory
+cuEST Auxiliary (Density Fit) Basis: Temporary workspace requires 0.00 GB of memory
+cuEST Primary Basis: Persistent workspace requires 0.00 GB of memory
+cuEST Primary Basis: Temporary workspace requires 0.00 GB of memory
+cuEST Pair List: Persistent workspace requires 0.00 GB of memory
+cuEST Pair List: Temporary workspace requires 0.00 GB of memory
+Density Fit Integral Plan: Persistent workspace requires 7.20 GB of memory
+Density Fit Integral Plan: Temporary workspace requires 4.44 GB of memory
+Coulomb Integral Compute: Temporary workspace requires 0.00 GB of memory
+XC Molecular Grid: Persistent workspace requires 0.02 GB of memory
+XC Molecular Grid: Temporary workspace requires 0.02 GB of memory
+XC Integral Plan: Persistent workspace requires 0.01 GB of memory
+XC Integral Plan: Temporary workspace requires 0.02 GB of memory
+V_xc Compute: Temporary workspace requires 2.02 GB of memory
+XC Density Compute: Temporary workspace requires 2.00 GB of memory
+One-electron Integral Plan: Persistent workspace requires 0.01 GB of memory
+One-electron Integral Plan: Temporary workspace requires 0.00 GB of memory
+Overlap Matrix Compute: Temporary workspace requires 0.01 GB of memory
+Kinetic Integral Compute: Temporary workspace requires 0.01 GB of memory
+Potential Integral Compute: Temporary workspace requires 0.02 GB of memory
+XC Integration Weight Compute: Temporary workspace requires 0.02 GB of memory
