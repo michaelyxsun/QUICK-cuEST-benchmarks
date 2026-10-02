@@ -1,4 +1,4 @@
-HF BASIS=6-31+G** cutoff=1.0e-10 denserms=1.0e-6 GRADIENT CUEST CHK_WRITE_DEN
+HF BASIS=6-31+G** cutoff=1.0e-10 denserms=1.0e-6 GRADIENT GRDBG
 
  O      -1.99300000      -0.47400000       1.20050000
  O      -2.78260000      -2.51680000      -0.22180000
